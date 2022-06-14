@@ -13,7 +13,17 @@ The goal is to also allow a certain group of FE veterans to enjoy FE3H. I've com
 Alright, FAQ (except no one asked):
 
 Q: Where can I download the mod?
-A: Its not out, and it won't be for a few years. I'm literally the main contributor (with a few favors here and there)
+
+A: Its not out, and it won't be for a few years. I'm literally the main contributor (with a few favors here and there). But if yyou're asking in advance, it will probably be posted in FEU.
+
 
 Q: Will the rom go public?
-A: That is the plan, until Nintendo pulls the trigger
+
+A: That is the plan, until Nintendo pulls the trigger (keep it hush alr).
+
+
+Q: Can I download all of this?
+
+A: Yes, but that doesn't mean you can use it for your own public rom hacks. I've gotten permission from a few people to use their pixel art, and you would need to do the same. Look in credits.txt for the people you can ask.
+
+Anyways, thanks for reading ig.
