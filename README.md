@@ -14,7 +14,7 @@ Alright, FAQ (except no one asked):
 
 Q: Where can I download the mod?
 
-A: Its not out, and it won't be for a few years. I'm literally the main contributor (with a few favors here and there). But if yyou're asking in advance, it will probably be posted in FEU.
+A: Its not out, and it won't be for a few years. I'm literally the main contributor (with a few favors here and there).
 
 
 Q: Will the rom go public?
