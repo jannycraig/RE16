@@ -26,4 +26,4 @@ Q: Can I download all of this?
 
 A: Yes, but that doesn't mean you can use it for your own public rom hacks. I've gotten permission from a few people to use their pixel art, and you would need to do the same. Look in credits.txt for the people you can ask.
 
-Anyways, thanks for reading ig.
+Anyways, thanks for reading ig. If you have any questions (or wanna join our discord server) shoot me an email at projectre16@gmail.com
