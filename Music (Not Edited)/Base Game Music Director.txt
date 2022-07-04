@@ -1,0 +1,96 @@
+Main Game Music:
+
+1 - Fire Emblem: Three Houses Main Theme [Trailer]
+2 - The Crest of Flames [Main Menu]
+3 - The Edge of Dawn (Seasons of Warfare) [Intro Movie]
+4 - Fódlan Winds (Rain) [Map for P-5]
+7 - Blue Skies and a Battle (Rain) [Map for 7]
+9 - Tearing Through Heaven (Rain) [Map for 8-10]
+11 - Roar of Dominion (Rain) [Map for 12]
+13 - Chasing Daybreak (Rain) [Map for 13-15] ALL
+15 - Between Heaven and Earth (Rain) [Map for 17] AM/VW
+17 - The Long Road (Rain):
+	Map of 16-17 CF
+	Map of 18-21 AM
+	Map of 18-20 VW
+	Map of 17-19 SS
+20 - God-Shattering Star (Rain) [Map for 22] VW
+22 - A Funeral of Flowers (Rain) [Map for 21] SS
+24 - Apex of the World (Rain) [Map for 18 (CM) & 22 (AM)]
+26 - Dwellings of the Ancient Gods (Rain) [Map for 2, 6, 11]
+28 - Shambhala (Area 17 Redux) (Rain) [Map for 21 (VW) & 20 (SS)]
+30 - Tempest of Seasons (Rain) [Training Grounds & Paralogue Theme]
+32 - Wrath Strike (Rain) [Boss Battle Map Theme]
+36 - Paths That Will Never Cross (Rain) [Map theme for battling unrecruited students - Part 2]
+38 - Indomitable Will (Rain) [Map theme for battling House Leaders - Part 2]
+41 - Guardian of Starlight [In relation to Rhea]
+42 - Gazing at Sirius [Rhea's Theme]
+43 - Song of the Nabateans [N/A]
+44 - Respite and Sunlight [Support]
+45 - A Gentle Breeze [Support]
+46 - Funny Footsteps [Support]
+47 - Recollection and Regret [Support]
+48 - Somewhere to Belong [Support]
+49 - Calm Winds Over Gentle Waters [Support]
+50 - Spiderweb [Support]
+51 - Beyond the Crossroads [Event]
+52 - A Lonely Figure [Event & Holy Tomb Theme]
+53 - Beneath the Banner [Recruitment Theme]
+54 - Tactics [Event & GM Exploration Chapter 6] + Chapter 12 (VW & AM)]
+56 - The Leader's Path [Event & Edelgard's Theme]
+57 - The King of Lions [Event & Dimitri's Theme]
+58 - Golden Deer and Crescent Moon [Event & Claude's Theme]
+59 - A Dark Sign [In relation to Hubert, Jeritza, Lord Arundel] + Event & Flame Emperor's Theme]
+61 - Those Who Sow Darkness [Event & Those Who Slither in the Dark Theme] RIP
+62 - Dark Clouds Gather [Event]
+63 - Arcana Code [Event] RIP
+64 - Farewell [Event] RIP
+66 - A Promise [Event]
+67 - Unfulfilled [Event]
+69 - Learning Lessons [Instructions]
+70 - Seeking New Heights [Certification Exam Theme] RIP
+76 - White Heron Waltz [White Heron Waltz Theme]
+77 - The Land Beloved by the Goddess [Moon Intro Theme Part 1]
+78 - Three Crowns [Moon Intro Theme Part 2]
+79 - Still Horizon [War Conclusion Theme]
+80 - A Guide for the Future [Calendar Theme - Early Part 1]
+81 - Life at Garreg Mach Monastery [Garreg Mach Exploration Theme Part 1]
+82 - Broken Routine [Garreg Mach exploration Theme Chapter 10 & 11}
+83 - Scales of the Goddess [Garreg Mach Exploration Theme Part 2]
+85 - People of the Marketplace [Market Theme]
+86 - As Swift as Wind [Prep Theme Part 1]
+87 - As Fierce as Fire [Prep Theme Part 2]
+88 - The Dream is Over [Ally Death Theme]
+89 - A Star in the Morning Sky [Statistics and Epilogues Theme]
+90 - Edge of Dawn [Credits]
+91 - The Color of Sunrise [Credits - CF]
+92 - Revenge [Seiros kills Nemesis Cutscene]
+93 - The Archbishop [Cutscene]
+94 - The Officers Academy [Cutscene]
+95 - The Night at the Ball [Cutscene & End Screen]
+96 - Fated Death [Cutscene] MAY USE 104 WAILING
+97 - Awakening [Cutscene] REPLACE WITH SOMETHING... GARDIANS OF STARLIGHT? OR TRAILER THEME EDIT
+99 - Loathing [Cutscene] REPLACE WITH A DARK SIGN
+100 - Rematch [Cutscene] ***
+101 - Javelins of Light [Cutscene]
+102 - Death of the Flame Emperor [Cutscene] REPLACE WITH REGULAR CREDITS? OR TRAILER THEME EDIT
+103 - The Curse [Cutscene]
+104 - Wailing [SS Final Cutscene]
+105 - Citizens of the East [Cutscene]
+106 - A World for Humanity [CF Final Cutscene] SEMI RIP
+107 - Light and Shadow [AM Final Cutscene]
+108 - 	A New Dawn [VW Final Cutscene] SEMI RIP
+
+DLC Music (REUSED):
+
+11 - Roar of Dominion (Rain) [Map of 6]
+26 - Dwellings of the Ancient Gods (Rain) [Map of 3]
+
+DLC Music:
+
+A2 - Corridor of the Tempest (Rain) [Paralogue & Map Theme]
+A4 - Legend of the Chalice [CS Intro Cutscene]
+A5 - The Forgotten [Abyss Exploration Theme]
+A6 - Woven by Fate [Event Theme]
+A7 - The Shackled Wolves (Rain) [CS Map Theme]
+A9 - At What Cost? (Rain) [Final Map CS]
