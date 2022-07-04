@@ -10,6 +10,8 @@ Since a FE3H runs on a Nintendo Switch, the game can't run on consoles before it
 
 The goal is to also allow a certain group of FE veterans to enjoy FE3H. I've come across lots of veterans who don't like the new features of it. So the game allow connects new players and old players, overall creating a sort of bridge between them, creating that perfect balance.
 
+(Thats all bullshit I just wanted to play 3H on my Wii)
+
 Alright, FAQ (except no one asked):
 
 Q: Where can I download the mod?
