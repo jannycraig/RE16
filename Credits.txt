@@ -19,7 +19,7 @@ Music:
 Dex឵឵#7333
 Kascade#2505 (not Ashen)
 
-Patches/ASM:
+Resources/Custom Modules:
 
 SME
 StanH
@@ -27,6 +27,7 @@ Runa
 Snakey1
 Huichelaar
 Vesly
+kurokairaku
 
 Special Mentions:
 Vesly
