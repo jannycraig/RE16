@@ -1,0 +1,67 @@
+Here is the total progress so far:
+
+Key:
+
+[X] = Completed
+[+] = Almost Done (mostly means untested in FE8)
+[0] = Partially Completed
+[?] = Idk
+[-] = Nothing Completed
+
+19.7.22
+Current Route: Cindered Shadows (Pilot)
+
+Portraits:
+Male Byleth [X]
+Female Byleth [X]
+Edelgard [?]
+Dimitri [+]
+Claude [+]
+Lindhart [+]
+Hilda [0]
+Ashe [0]
+Yuri [X]
+Balthus [X]
+Normal Constance [X]
+Sun Constance [X]
+Hapi [X]
+Rhea [+]
+Alois [-]
+Aelfric [+]
+Metodey [-]
+Death Knight [-]
+Umbral Beast [X]
+Enemy Portraits [-]
+NPCs (idk, like Anna, Abysskeeper, etc.) [?]
+Monsters [-]
+
+Music:
+
+The Crest of Flames [X]
+Event Music [0]
+Legend of the Chalice [+] (I forgot, but I remember doing it)
+The Forgotten [+]
+Woven by Fate [0]
+The Shackled Wolves [+]
+At What Cost? [+]
+The Edge of Dawn [+]
+
+Other Random Stuff:
+
+Battle Animations [0]
+Map Sprites [-]
+Chapter Intro [X]
+Images [0]
+
+
+
+Extra Things:
+- Fixing frames for halfbody portraits from repo (Claude, Dimitri)
+- Completing "Woven by Fate" (song left incompleted)
+- Testing Lindhart from the repository
+
+What's Next:
+- Fix Repository Edelgard (halfbody or normal not decided yet)
+- Giving Aelfric a skin recolour (the tones don't blend well)
+- Giving Sothis a recolour (reaons)
+- Giving Rhea a recolour (reasons)
