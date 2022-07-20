@@ -66,5 +66,5 @@ Extra Things:
 What's Next:
 - Fix Repository Edelgard (halfbody or normal not decided yet)
 - Giving Aelfric a skin recolour (the tones don't blend well)
-- Giving Sothis a recolour (reaons)
+- Giving Sothis a recolour (reasons)
 - Giving Rhea a recolour (reasons)
