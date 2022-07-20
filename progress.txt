@@ -38,13 +38,14 @@ Monsters [-]
 Music:
 
 The Crest of Flames [X]
+The Edge of Dawn - Seasons of Warfare [X]
 Event Music [0]
 Legend of the Chalice [+] (I forgot, but I remember doing it)
 The Forgotten [+]
 Woven by Fate [0]
 The Shackled Wolves [+]
 At What Cost? [+]
-The Edge of Dawn [+]
+The Edge of Dawn Credits [+]
 
 Other Random Stuff:
 
@@ -52,6 +53,7 @@ Battle Animations [0]
 Map Sprites [-]
 Chapter Intro [X]
 Images [0]
+Intro [0]
 
 
 
