@@ -59,9 +59,9 @@ Intro [0]
 
 
 Extra Things:
-- Fixing frames for halfbody portraits from repo (Claude, Dimitri)
+- Fixing frames for halfbody portraits from repo (Claude, Dimitri) Completed Date: 21.7.22
 - Completing "Woven by Fate" (song left incompleted)
-- Testing Lindhart from the repository
+- Testing Lindhart from the repository Completed Date: 21.7.22
 
 What's Next:
 - Fix Repository Edelgard (halfbody or normal not decided yet)
