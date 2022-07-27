@@ -89,3 +89,7 @@ Quick update ig. Just a todo list for starting the build.
 - Create Chibis (literally everyone, so there's not bother listing them all)
 - Get Convo Backgrounds
 - Work on Intro Screen (no 16 color reduction yet)
+- Get opening text
+- Calculate Stats Formula
+- Get list of items
+- Test music
