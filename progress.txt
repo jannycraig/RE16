@@ -69,3 +69,23 @@ What's Next:
 - Giving Aelfric a skin recolour (the tones don't blend well)
 - Giving Sothis a recolour (reasons)
 - Giving Rhea a recolour (reasons)
+
+~~~
+
+27.7.22
+
+Quick update ig. Just a todo list for starting the build.
+
+- Get the patches working:
+  Holy Blood
+  Free Movement
+  Shop Unit (?)
+  Personal Data
+  Escape/Arrive
+  Danger Radius
+- Fix Portrait Heights:
+  Constance
+  Hapi
+- Create Chibis (literally everyone, so there's not bother listing them all)
+- Get Convo Backgrounds
+- Work on Intro Screen (no 16 color reduction yet)
