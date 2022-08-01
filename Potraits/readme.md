@@ -1,5 +1,7 @@
 I'm only uploading portraits that are 100% finished and tested.
 
+Pretty any portrait that doesn't have an ending artist is a F2U portrait by the FE3H Demake Team (and prob done by Emkat)
+
 Regarding Usage of Portraits and Art:
 
 - Ones that end with "A3J" are ones you can use (please credit me) - just look out for the "F2E" and "F2U".
