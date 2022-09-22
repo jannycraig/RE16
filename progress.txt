@@ -93,3 +93,22 @@ Quick update ig. Just a todo list for starting the build.
 - Calculate Stats Formula
 - Get list of items
 - Test music
+
+~~~
+
+22.9.22
+
+Quick Update. A shit ton of text has been extracted.
+No point in listing anything else, since minimal work has been done.
+Currently working on Hapi's height and mini-mug, and finishing the hell-hole that Dex left me with.
+Text that's extracted:
+- All Weapons
+- All Items
+- All Skills
+(thanks someone123)
+Tryna get a new member to the team, idk.
+Still stuck with the stats formula, but I'm just lazy asf. It's a 7 chapter game, it shouldn't be too hard.
+Haha. This line is 111
+Hopefully I can get a playable demo out before January, at least of the first chapter and and maybe Abyss?
+
+~~~
