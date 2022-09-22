@@ -1,0 +1,2563 @@
+extracted by someone123#6741
+
+/*
+lines starting with /// denotes tables
+*/
+
+////////////////personal abilities 
+Skill
+Character
+Effect
+
+
+Professor's Guidance
+
+Byleth
+
+Multiplies this unit's and adjacent allies' experience earned by 1.2.
+
+
+
+Professor's Guidance+
+
+Byleth (Chapter 10 Battle)
+
+Unit deals 2 extra damage during combat. Multiplies this unit's and adjacent allies' experience earned by 1.2.
+
+
+
+Imperial Lineage
+
+Edelgard
+
+Multiplies experience earned by 1.2.
+
+
+
+Imperial Lineage+
+
+Edelgard (Post-Timeskip)
+
+If unit takes no action except Wait, grants Res +4 for 1 turn. Multiplies experience earned by 1.2.
+
+
+
+Royal Lineage
+
+Dimitri
+
+Multiplies experience earned by 1.2.
+
+
+
+Royal Lineage+
+
+Dimitri (Post-Timeskip)
+
+Grants Avo +20 while unit is at full HP. Multiplies experience earned by 1.2.
+
+
+
+Leicester Lineage
+
+Claude
+
+Multiplies experience earned by 1.2.
+
+
+
+Leicester Lineage+
+
+Claude (Post-Timeskip)
+
+Allows unit to pass through spaces occupied by foes. Multiplies experience earned by 1.2.
+
+
+
+Officer Duty
+
+Hubert
+
+Grants Mt +5 with gambits.
+
+
+
+Songstress
+
+Dorothea
+
+Adjacent allies recover up to 10% of max HP at the start of each turn.
+
+
+
+Confidence
+
+Ferdinand
+
+Grants Hit/Avo +15 when unit is at full HP.
+
+
+
+Persecution Complex
+
+Bernadetta
+
+Grants Atk +5 when unit is not at full HP.
+
+
+
+Born Fighter
+
+Caspar
+
+Adjacent foes suffer Avo -10 during combat.
+
+
+
+Catnap
+
+Linhardt
+
+If unit takes no action except Wait, recovers up to 10% of max HP.
+
+
+
+Hunter's Boon
+
+Petra
+
+Grants Crit +20 when foe's HP is ≤ 50%.
+
+
+
+Live to Serve
+
+Mercedes
+
+When healing an ally with white magic, unit recovers the same amount of HP.
+
+
+
+Staunch Shield
+
+Dedue
+
+If unit takes no action except Wait, grants Def +4 for 1 turn.
+
+
+
+Lone Wolf
+
+Felix
+
+Unit deals 5 extra damage when no battalion is assigned or when battalion endurance is 0.
+
+
+
+Lockpick
+
+Ashe
+
+Allows unit to open doors and chests without keys.
+
+
+
+Perseverance
+
+Annette
+
+Use Rally to grant Str +4 to an ally.
+
+
+
+Philanderer
+
+Sylvain
+
+If a female ally is adjacent, unit deals 2 extra damage and takes 2 less damage during combat.
+
+
+
+Lady Knight
+
+Ingrid
+
+Grants Mt +3 and Hit +5 with gambits.
+
+
+
+Distinguished House
+
+Lorenz
+
+Unit deals 2 extra damage while in formation with a battalion.
+
+
+
+Advocate
+
+Hilda
+
+Adjacent male allies deal 3 extra damage during combat.
+
+
+
+Goody Basket
+
+Raphael
+
+Chance to recover up to 10% of max HP at the start of each turn. Trigger % = Lck stat.
+
+
+
+Mastermind
+
+Lysithea
+
+Doubles skill experience earned in battle.
+
+
+
+Watchful Eye
+
+Ignatz
+
+Grants Hit +20.
+
+
+
+Animal Friend
+
+Marianne
+
+Unit recovers up to 20% of max HP at the start of each turn when adjacent to a cavalry or flying ally.
+
+
+
+Rivalry
+
+Leonie
+
+If a male ally is adjacent, unit deals 2 extra damage and takes 2 less damage during combat.
+
+
+
+Infirmary Master
+
+Manuela
+
+Adjacent allies gain Crit Avo +10 during combat.
+
+
+
+Crest Scholar
+
+Hanneman
+
+Use Rally to grant Mag +4 to an ally
+
+
+
+Fighting Spirit
+
+Catherine
+
+Unit takes 5 less damage when no battalion is assigned or when battalion endurance is 0.
+
+
+
+Compassion
+
+Alois
+
+Use Rally to grant Lck +8 to an ally.
+
+
+
+Guardian
+
+Seteth
+
+Adjacent female allies deal 3 extra damage during combat
+
+
+
+Lily's Poise
+
+Flayn
+
+Adjacent allies take 3 less damage during combat.
+
+
+
+Veteran Knight
+
+Gilbert
+
+Unit takes 2 less damage while in formation with a battalion.
+
+
+
+Survival Instinct
+
+Shamir
+
+If unit initiates combat and defeats foe, grants Str/Mag/Dex/Spd +4 for one turn.
+
+
+
+Aptitude
+
+Cyril
+
+Makes each stat 20% more likely to increase on level up.
+
+
+
+Murderous Intent
+
+Death Knight
+
+If unit initiates combat, grants Hit +20 during combat.
+
+
+
+Business Prosperity
+
+Anna
+
+Grants Lck +5.
+
+
+
+Honorable Spirit
+
+Yuri
+
+If unit is not near an ally, grants Atk +3 when in combat with a foe one space away.
+
+
+
+Circadian Beat
+
+Constance
+
+Grants Str/Mag +3 when indoors and Def/Res +3 when outdoors.
+
+
+
+King of Grappling
+
+Balthus
+
+Grants Str/Def +6 when HP ≤ 50%.
+
+
+
+Monstrous Appeal
+
+Hapi
+
+Makes all attacks effective against monsters and makes it easier for monsters to target unit.
+
+
+
+Blade Breaker
+
+Jeralt
+
+If unit damages foe, foe suffers Str/Def -6 for 1 turn after combat.
+
+
+
+Sacred Power
+
+Rhea
+
+Adjacent allies deal 3 extra damage and take 3 less damage during combat.
+
+
+
+General
+
+Lonato, Gwendal, Judith, Ladislava, Randolph
+
+Nullifies instant death effects and halves damage from enemy gambits.
+
+ 	 	<a href="https://static.wikia.nocookie.net/fireemblem/images/e/e3/Steal_FE16.png/revision/latest?cb=20191108132422" class="image"><img alt="Steal FE16.png" src="https://static.wikia.nocookie.net/fireemblem/images/e/e3/Steal_FE16.png/revision/latest/scale-to-width-down/35?cb=20191108132422" decoding="async" width="35" height="35" class="thumbimage" data-image-name="Steal FE16.png" data-image-key="Steal_FE16.png" data-src="https://static.wikia.nocookie.net/fireemblem/images/e/e3/Steal_FE16.png/revision/latest/scale-to-width-down/35?cb=20191108132422" /></a> 	 		 		 		 	 
+
+Steal
+
+Miklan
+
+Unit can steal non-weapon items from enemies with lower Spd than self.
+
+
+
+Poison Strike
+
+Acheron
+
+If unit initiates combat, enemy loses up to 20% HP.
+
+
+
+Agarthan Technology
+
+Solon, Kronya, Thales, Cornelia, Myson, Odesse, Bias, Chilon, Pittacus
+
+Adjacent foes deal 3 less damage during combat.
+
+ 	 	<a href="https://static.wikia.nocookie.net/fireemblem/images/c/c3/Heartseeker_FE16.png/revision/latest?cb=20191031000748" class="image"><img alt="Heartseeker FE16.png" src="https://static.wikia.nocookie.net/fireemblem/images/c/c3/Heartseeker_FE16.png/revision/latest/scale-to-width-down/35?cb=20191031000748" decoding="async" width="35" height="35" class="thumbimage" data-image-name="Heartseeker FE16.png" data-image-key="Heartseeker_FE16.png" data-src="https://static.wikia.nocookie.net/fireemblem/images/c/c3/Heartseeker_FE16.png/revision/latest/scale-to-width-down/35?cb=20191031000748" /></a> 	 		 		 		 	 
+
+Heartseeker
+
+Metodey
+
+Reduces Avoid of adjacent foes by 20.
+
+
+
+Commander
+
+Rodrigue, Lord Arundel, Aelfric
+
+Nullifies instant death effects, status effects, and movement effects, and greatly reduces damage from enemy gambits.
+
+
+
+Magic Bind
+
+The Wind Caller
+
+If unit lands a hit, targeted foe is unable to use magic for 1 turn.
+
+
+
+Monster Effect Null
+
+The Immovable
+
+Nullifies any extra effectiveness against monsters.
+
+
+
+Mighty King of Legend
+
+Nemesis
+
+Negates 1 attack per turn and strengthens stats while the 10 Elites are present.
+
+
+
+10 Elites
+
+Blaiddyd, Riegan, Lamine, Goneril, Charon, Fraldarius, Gloucester, Dominic, Gautier, Daphnel
+
+Grants power to the Mighty King of Legend.
+
+
+
+Umbral Leech
+
+Umbral Beast
+
+Unit absorbs HP from phantoms.
+
+///////////class ablilties
+Icon
+
+Skill
+
+Class
+
+Effect
+
+  	 
+
+Charm
+
+  LordArmored LordHigh Lord Wyvern Master EmperorGreat LordBarbarossaArchbishopSaint
+
+Adjacent allies deal 3 extra damage during combat.
+
+
+Canto
+
+CavalierPegasus KnightPaladinWyvern RiderWyvern MasterDeath KnightDark Flier Valkyrie Falcon KnightWyvern LordGreat KnightBow KnightDark KnightHoly KnightBarbarossa
+
+Allows unit to move again after completing certain actions, if there is movement remaining.
+
+ 		 		 	 
+
+Unarmed Combat
+
+BrawlerGrapplerWar MonkWar Cleric
+
+Allow unit to fight without a weapon.
+
+		 		 		 	 
+
+Fire
+
+Mage
+
+Allows unit to cast Fire. If Fire is already available, then unit can cast it twice as often.
+
+ 	 	<a href="https://static.wikia.nocookie.net/fireemblem/images/d/da/Miasma_%CE%94_FE16.png/revision/latest?cb=20191031005840" class="image"><img alt="Miasma Δ FE16.png" src="https://static.wikia.nocookie.net/fireemblem/images/d/da/Miasma_%CE%94_FE16.png/revision/latest/scale-to-width-down/35?cb=20191031005840" decoding="async" width="35" height="35" class="thumbimage" data-image-name="Miasma Δ FE16.png" data-image-key="Miasma_%CE%94_FE16.png" data-src="https://static.wikia.nocookie.net/fireemblem/images/d/da/Miasma_%CE%94_FE16.png/revision/latest/scale-to-width-down/35?cb=20191031005840" /></a> 	 		 		 		 	 
+
+Miasma Δ
+
+Dark MageDark Bishop
+
+Allows unit to cast Miasma. If Miasma is already available, then unit can cast it twice as often.
+
+ 	 	<a href="https://static.wikia.nocookie.net/fireemblem/images/c/c3/Heartseeker_FE16.png/revision/latest?cb=20191031000748" class="image"><img alt="Heartseeker FE16.png" src="https://static.wikia.nocookie.net/fireemblem/images/c/c3/Heartseeker_FE16.png/revision/latest/scale-to-width-down/35?cb=20191031000748" decoding="async" width="35" height="35" class="thumbimage" data-image-name="Heartseeker FE16.png" data-image-key="Heartseeker_FE16.png" data-src="https://static.wikia.nocookie.net/fireemblem/images/c/c3/Heartseeker_FE16.png/revision/latest/scale-to-width-down/35?cb=20191031000748" /></a> 	 		 		 		 	 
+
+Heartseeker
+
+Dark MageDark BishopKing of Liberation
+
+Adjacent foes suffer Avo -20 during combat.
+
+ 	 	<a href="https://static.wikia.nocookie.net/fireemblem/images/e/e3/Steal_FE16.png/revision/latest?cb=20191108132422" class="image"><img alt="Steal FE16.png" src="https://static.wikia.nocookie.net/fireemblem/images/e/e3/Steal_FE16.png/revision/latest/scale-to-width-down/35?cb=20191108132422" decoding="async" width="35" height="35" class="thumbimage" data-image-name="Steal FE16.png" data-image-key="Steal_FE16.png" data-src="https://static.wikia.nocookie.net/fireemblem/images/e/e3/Steal_FE16.png/revision/latest/scale-to-width-down/35?cb=20191108132422" /></a> 	 		 		 		 	 
+
+Steal
+
+Thief
+
+Allows unit to steal a non-weapon item from a foe with a lower Spd stat.
+
+ 	 	<a href="https://static.wikia.nocookie.net/fireemblem/images/a/aa/Locktouch_FE16.png/revision/latest?cb=20190723213856" class="image"><img alt="Locktouch FE16.png" src="https://static.wikia.nocookie.net/fireemblem/images/a/aa/Locktouch_FE16.png/revision/latest/scale-to-width-down/35?cb=20190723213856" decoding="async" width="35" height="35" class="thumbimage" data-image-name="Locktouch FE16.png" data-image-key="Locktouch_FE16.png" data-src="https://static.wikia.nocookie.net/fireemblem/images/a/aa/Locktouch_FE16.png/revision/latest/scale-to-width-down/35?cb=20190723213856" /></a> 	 		 		 		 	 
+
+Locktouch
+
+ThiefAssassinTrickster
+
+Allows unit to open doors and chests without keys.
+
+ 	 	<a href="https://static.wikia.nocookie.net/fireemblem/images/e/ed/Avo%2B10_FE16.png/revision/latest?cb=20190723213957" class="image"><img alt="Avo+10 FE16.png" src="https://static.wikia.nocookie.net/fireemblem/images/e/ed/Avo%2B10_FE16.png/revision/latest/scale-to-width-down/35?cb=20190723213957" decoding="async" width="35" height="35" class="thumbimage" data-image-name="Avo+10 FE16.png" data-image-key="Avo%2B10_FE16.png" data-src="https://static.wikia.nocookie.net/fireemblem/images/e/ed/Avo%2B10_FE16.png/revision/latest/scale-to-width-down/35?cb=20190723213957" /></a> 	 		 		 		 	 
+
+Avoid +10
+
+Pegasus KnightFalcon KnightWyvern LordLord of the Desert
+
+Increases Avoid by 10.
+
+ 	 	<a href="https://static.wikia.nocookie.net/fireemblem/images/6/61/Bowrange%2B1_FE16.png/revision/latest?cb=20191029231459" class="image"><img alt="Bowrange+1 FE16.png" src="https://static.wikia.nocookie.net/fireemblem/images/6/61/Bowrange%2B1_FE16.png/revision/latest/scale-to-width-down/35?cb=20191029231459" decoding="async" width="35" height="35" class="thumbimage" data-image-name="Bowrange+1 FE16.png" data-image-key="Bowrange%2B1_FE16.png" data-src="https://static.wikia.nocookie.net/fireemblem/images/6/61/Bowrange%2B1_FE16.png/revision/latest/scale-to-width-down/35?cb=20191029231459" /></a> 	 		 		 		 	 
+
+Bowrange +1
+
+ArcherSniper
+
+Increases Bow range by 1.
+
+ 	 	<a href="https://static.wikia.nocookie.net/fireemblem/images/5/5e/Bowrange%2B2_FE16.png/revision/latest?cb=20191029231456" class="image"><img alt="Bowrange+2 FE16.png" src="https://static.wikia.nocookie.net/fireemblem/images/5/5e/Bowrange%2B2_FE16.png/revision/latest/scale-to-width-down/35?cb=20191029231456" decoding="async" width="35" height="35" class="thumbimage" data-image-name="Bowrange+2 FE16.png" data-image-key="Bowrange%2B2_FE16.png" data-src="https://static.wikia.nocookie.net/fireemblem/images/5/5e/Bowrange%2B2_FE16.png/revision/latest/scale-to-width-down/35?cb=20191029231456" /></a> 	 		 		 		 	 
+
+Bowrange +2
+
+Bow Knight
+
+Increases Bow range by 2.
+
+ 	 	<a href="https://static.wikia.nocookie.net/fireemblem/images/d/d6/Heal_FE16.png/revision/latest?cb=20191031000623" class="image"><img alt="Heal FE16.png" src="https://static.wikia.nocookie.net/fireemblem/images/d/d6/Heal_FE16.png/revision/latest/scale-to-width-down/35?cb=20191031000623" decoding="async" width="35" height="35" class="thumbimage" data-image-name="Heal FE16.png" data-image-key="Heal_FE16.png" data-src="https://static.wikia.nocookie.net/fireemblem/images/d/d6/Heal_FE16.png/revision/latest/scale-to-width-down/35?cb=20191031000623" /></a> 	 		 		 		 	 
+
+Heal
+
+PriestWar MonkWar Cleric
+
+Allows unit to cast Heal. If Heal is already available, then unit can caste it twice as often.
+
+ 	 	<a href="https://static.wikia.nocookie.net/fireemblem/images/5/5f/White_Magic_Heal%2B5_FE16.png/revision/latest?cb=20191108142425" class="image"><img alt="White Magic Heal+5 FE16.png" src="https://static.wikia.nocookie.net/fireemblem/images/5/5f/White_Magic_Heal%2B5_FE16.png/revision/latest/scale-to-width-down/35?cb=20191108142425" decoding="async" width="35" height="35" class="thumbimage" data-image-name="White Magic Heal+5 FE16.png" data-image-key="White_Magic_Heal%2B5_FE16.png" data-src="https://static.wikia.nocookie.net/fireemblem/images/5/5f/White_Magic_Heal%2B5_FE16.png/revision/latest/scale-to-width-down/35?cb=20191108142425" /></a> 	 		 		 		 	 
+
+White Magic Heal +5
+
+Priest
+
+Heal 5 extra HP when using white magic.
+
+ 	 	<a href="https://static.wikia.nocookie.net/fireemblem/images/7/70/White_Magic_Heal%2B10_FE16.png/revision/latest?cb=20191108142438" class="image"><img alt="White Magic Heal+10 FE16.png" src="https://static.wikia.nocookie.net/fireemblem/images/7/70/White_Magic_Heal%2B10_FE16.png/revision/latest/scale-to-width-down/35?cb=20191108142438" decoding="async" width="35" height="35" class="thumbimage" data-image-name="White Magic Heal+10 FE16.png" data-image-key="White_Magic_Heal%2B10_FE16.png" data-src="https://static.wikia.nocookie.net/fireemblem/images/7/70/White_Magic_Heal%2B10_FE16.png/revision/latest/scale-to-width-down/35?cb=20191108142438" /></a> 	 		 		 		 	 
+
+White Magic Heal +10
+
+Bishop
+
+Heal 10 extra HP when using white magic.
+
+ 	 	<a href="https://static.wikia.nocookie.net/fireemblem/images/2/27/Swordfaire_FE16.png/revision/latest?cb=20191108141021" class="image"><img alt="Swordfaire FE16.png" src="https://static.wikia.nocookie.net/fireemblem/images/2/27/Swordfaire_FE16.png/revision/latest/scale-to-width-down/35?cb=20191108141021" decoding="async" width="35" height="35" class="thumbimage" data-image-name="Swordfaire FE16.png" data-image-key="Swordfaire_FE16.png" data-src="https://static.wikia.nocookie.net/fireemblem/images/2/27/Swordfaire_FE16.png/revision/latest/scale-to-width-down/35?cb=20191108141021" /></a> 	 		 		 		 	 
+
+Swordfaire
+
+HeroSwordmasterAssassinMortal SavantEnlightened OneKing of Liberation
+
+Grants Atk +5 when using a sword.
+
+ 	 	<a href="https://static.wikia.nocookie.net/fireemblem/images/7/72/Axefaire_FE16.png/revision/latest?cb=20191029221356" class="image"><img alt="Axefaire FE16.png" src="https://static.wikia.nocookie.net/fireemblem/images/7/72/Axefaire_FE16.png/revision/latest/scale-to-width-down/35?cb=20191029221356" decoding="async" width="35" height="35" class="thumbimage" data-image-name="Axefaire FE16.png" data-image-key="Axefaire_FE16.png" data-src="https://static.wikia.nocookie.net/fireemblem/images/7/72/Axefaire_FE16.png/revision/latest/scale-to-width-down/35?cb=20191029221356" /></a> 	 		 		 		 	 
+
+Axefaire
+
+Fortress KnightWarriorWyvern RiderArmored LordWyvern LordGreat KnightWar MasterEmperor
+
+Grants Atk +5 when using an axe.
+
+ 	 	<a href="https://static.wikia.nocookie.net/fireemblem/images/a/a1/Lancefaire_FE16.png/revision/latest?cb=20191031004353" class="image"><img alt="Lancefaire FE16.png" src="https://static.wikia.nocookie.net/fireemblem/images/a/a1/Lancefaire_FE16.png/revision/latest/scale-to-width-down/35?cb=20191031004353" decoding="async" width="35" height="35" class="thumbimage" data-image-name="Lancefaire FE16.png" data-image-key="Lancefaire_FE16.png" data-src="https://static.wikia.nocookie.net/fireemblem/images/a/a1/Lancefaire_FE16.png/revision/latest/scale-to-width-down/35?cb=20191031004353" /></a> 	 		 		 		 	 
+
+Lancefaire
+
+PaladinHigh LordDeath KnightFalcon KnightGreat KnightGreat Lord
+
+Grants Atk +5 when using a lance.
+
+ 	 	<a href="https://static.wikia.nocookie.net/fireemblem/images/2/24/Bowfaire_FE16.png/revision/latest?cb=20190723215350" class="image"><img alt="Bowfaire FE16.png" src="https://static.wikia.nocookie.net/fireemblem/images/2/24/Bowfaire_FE16.png/revision/latest/scale-to-width-down/35?cb=20190723215350" decoding="async" width="35" height="35" class="thumbimage" data-image-name="Bowfaire FE16.png" data-image-key="Bowfaire_FE16.png" data-src="https://static.wikia.nocookie.net/fireemblem/images/2/24/Bowfaire_FE16.png/revision/latest/scale-to-width-down/35?cb=20190723215350" /></a> 	 		 		 		 	 
+
+Bowfaire
+
+SniperWyvern MasterBow KnightBarbarossa
+
+Grants Atk +5 when using a bow
+
+ 	 	<a href="https://static.wikia.nocookie.net/fireemblem/images/8/83/Fistfaire_FE16.png/revision/latest?cb=20191030033421" class="image"><img alt="Fistfaire FE16.png" src="https://static.wikia.nocookie.net/fireemblem/images/8/83/Fistfaire_FE16.png/revision/latest/scale-to-width-down/35?cb=20191030033421" decoding="async" width="35" height="35" class="thumbimage" data-image-name="Fistfaire FE16.png" data-image-key="Fistfaire_FE16.png" data-src="https://static.wikia.nocookie.net/fireemblem/images/8/83/Fistfaire_FE16.png/revision/latest/scale-to-width-down/35?cb=20191030033421" /></a> 	 		 		 		 	 
+
+Fistfaire
+
+GrapplerWar MonkWar ClericWar Master
+
+Grants Atk +5 when brawling.
+
+ 	 	<a href="https://static.wikia.nocookie.net/fireemblem/images/c/ce/Black_Tomefaire_FE16.png/revision/latest?cb=20191029223921" class="image"><img alt="Black Tomefaire FE16.png" src="https://static.wikia.nocookie.net/fireemblem/images/c/ce/Black_Tomefaire_FE16.png/revision/latest/scale-to-width-down/35?cb=20191029223921" decoding="async" width="35" height="35" class="thumbimage" data-image-name="Black Tomefaire FE16.png" data-image-key="Black_Tomefaire_FE16.png" data-src="https://static.wikia.nocookie.net/fireemblem/images/c/ce/Black_Tomefaire_FE16.png/revision/latest/scale-to-width-down/35?cb=20191029223921" /></a> 	 		 		 		 	 
+
+Black Tomefaire
+
+WarlockDark KnightDark FlierMortal SavantVerrat
+
+Grants Atk +5 when using Black Magic.
+
+ 	 	<a href="https://static.wikia.nocookie.net/fireemblem/images/b/b5/Dark_Tomefaire_FE16.png/revision/latest?cb=20191030022911" class="image"><img alt="Dark Tomefaire FE16.png" src="https://static.wikia.nocookie.net/fireemblem/images/b/b5/Dark_Tomefaire_FE16.png/revision/latest/scale-to-width-down/35?cb=20191030022911" decoding="async" width="35" height="35" class="thumbimage" data-image-name="Dark Tomefaire FE16.png" data-image-key="Dark_Tomefaire_FE16.png" data-src="https://static.wikia.nocookie.net/fireemblem/images/b/b5/Dark_Tomefaire_FE16.png/revision/latest/scale-to-width-down/35?cb=20191030022911" /></a> 	 		 		 		 	 
+
+Dark Tomefaire
+
+Dark Knight
+
+Grants Atk +5 when using Dark Magic.
+
+ 	 	<a href="https://static.wikia.nocookie.net/fireemblem/images/c/c9/White_Tomefaire_FE16.png/revision/latest?cb=20191108213003" class="image"><img alt="White Tomefaire FE16.png" src="https://static.wikia.nocookie.net/fireemblem/images/c/c9/White_Tomefaire_FE16.png/revision/latest/scale-to-width-down/35?cb=20191108213003" decoding="async" width="35" height="35" class="thumbimage" data-image-name="White Tomefaire FE16.png" data-image-key="White_Tomefaire_FE16.png" data-src="https://static.wikia.nocookie.net/fireemblem/images/c/c9/White_Tomefaire_FE16.png/revision/latest/scale-to-width-down/35?cb=20191108213003" /></a> 	 		 		 		 	 
+
+White Tomefaire
+
+Holy Knight
+
+Grants Atk +5 when using White Magic.
+
+ 	 	<a href="https://static.wikia.nocookie.net/fireemblem/images/d/d9/Vantage_FE16.png/revision/latest?cb=20191108142036" class="image"><img alt="Vantage FE16.png" src="https://static.wikia.nocookie.net/fireemblem/images/d/d9/Vantage_FE16.png/revision/latest/scale-to-width-down/35?cb=20191108142036" decoding="async" width="35" height="35" class="thumbimage" data-image-name="Vantage FE16.png" data-image-key="Vantage_FE16.png" data-src="https://static.wikia.nocookie.net/fireemblem/images/d/d9/Vantage_FE16.png/revision/latest/scale-to-width-down/35?cb=20191108142036" /></a> 	 		 		 		 	 
+
+Vantage
+
+HeroThe Immaculate One (Crimson Flower Only) 
+
+When foe initiates combat, unit still attacks first if HP is ≤ 50%.
+
+ 	 	<a href="https://static.wikia.nocookie.net/fireemblem/images/6/68/Weight_-5_FE16.png/revision/latest?cb=20191108142227" class="image"><img alt="Weight -5 FE16.png" src="https://static.wikia.nocookie.net/fireemblem/images/6/68/Weight_-5_FE16.png/revision/latest/scale-to-width-down/35?cb=20191108142227" decoding="async" width="35" height="35" class="thumbimage" data-image-name="Weight -5 FE16.png" data-image-key="Weight_-5_FE16.png" data-src="https://static.wikia.nocookie.net/fireemblem/images/6/68/Weight_-5_FE16.png/revision/latest/scale-to-width-down/35?cb=20191108142227" /></a> 	 		 		 		 	 
+
+Weight -5
+
+Fortress Knight
+
+Reduces total equipment weight by 5.
+
+ 	 	<a href="https://static.wikia.nocookie.net/fireemblem/images/3/37/Terrain_Resistance_FE16.png/revision/latest?cb=20191108141138" class="image"><img alt="Terrain Resistance FE16.png" src="https://static.wikia.nocookie.net/fireemblem/images/3/37/Terrain_Resistance_FE16.png/revision/latest/scale-to-width-down/35?cb=20191108141138" decoding="async" width="35" height="35" class="thumbimage" data-image-name="Terrain Resistance FE16.png" data-image-key="Terrain_Resistance_FE16.png" data-src="https://static.wikia.nocookie.net/fireemblem/images/3/37/Terrain_Resistance_FE16.png/revision/latest/scale-to-width-down/35?cb=20191108141138" /></a> 	 		 		 		 	 
+
+Terrain Resistance
+
+PaladinBishopHoly KnightEnlightened OneArchbishopSaint
+
+Nullifies damage from terrain.
+
+ 	 	<a href="https://static.wikia.nocookie.net/fireemblem/images/0/0c/Black_Magic_Uses_x2_FE16.png/revision/latest?cb=20191029222855" class="image"><img alt="Black Magic Uses x2 FE16.png" src="https://static.wikia.nocookie.net/fireemblem/images/0/0c/Black_Magic_Uses_x2_FE16.png/revision/latest/scale-to-width-down/35?cb=20191029222855" decoding="async" width="35" height="35" class="thumbimage" data-image-name="Black Magic Uses x2 FE16.png" data-image-key="Black_Magic_Uses_x2_FE16.png" data-src="https://static.wikia.nocookie.net/fireemblem/images/0/0c/Black_Magic_Uses_x2_FE16.png/revision/latest/scale-to-width-down/35?cb=20191029222855" /></a> 	 		 		 		 	 
+
+Black Magic Uses ×2
+
+WarlockGremoryVerrat
+
+Doubles the number of uses for Black Magic.
+
+ 	 	<a href="https://static.wikia.nocookie.net/fireemblem/images/8/86/Dark_Magic_Uses_x2_FE16.png/revision/latest?cb=20191030023242" class="image"><img alt="Dark Magic Uses x2 FE16.png" src="https://static.wikia.nocookie.net/fireemblem/images/8/86/Dark_Magic_Uses_x2_FE16.png/revision/latest/scale-to-width-down/35?cb=20191030023242" decoding="async" width="35" height="35" class="thumbimage" data-image-name="Dark Magic Uses x2 FE16.png" data-image-key="Dark_Magic_Uses_x2_FE16.png" data-src="https://static.wikia.nocookie.net/fireemblem/images/8/86/Dark_Magic_Uses_x2_FE16.png/revision/latest/scale-to-width-down/35?cb=20191030023242" /></a> 	 		 		 		 	 
+
+Dark Magic Uses ×2
+
+Gremory
+
+Doubles the number of uses for Dark Magic.
+
+ 	 	<a href="https://static.wikia.nocookie.net/fireemblem/images/d/d8/White_Magic_Uses_x2_FE16.png/revision/latest?cb=20191108212927" class="image"><img alt="White Magic Uses x2 FE16.png" src="https://static.wikia.nocookie.net/fireemblem/images/d/d8/White_Magic_Uses_x2_FE16.png/revision/latest/scale-to-width-down/35?cb=20191108212927" decoding="async" width="35" height="35" class="thumbimage" data-image-name="White Magic Uses x2 FE16.png" data-image-key="White_Magic_Uses_x2_FE16.png" data-src="https://static.wikia.nocookie.net/fireemblem/images/d/d8/White_Magic_Uses_x2_FE16.png/revision/latest/scale-to-width-down/35?cb=20191108212927" /></a> 	 		 		 		 	 
+
+White Magic Uses ×2
+
+BishopGremory
+
+Doubles the number of uses for White Magic.
+
+
+
+Sword Critical +10
+
+Swordmaster
+
+Grants Crit +10 when using a sword.
+
+ 	 	<a href="https://static.wikia.nocookie.net/fireemblem/images/8/8e/Stealth_FE16.png/revision/latest?cb=20191108132817" class="image"><img alt="Stealth FE16.png" src="https://static.wikia.nocookie.net/fireemblem/images/8/8e/Stealth_FE16.png/revision/latest/scale-to-width-down/35?cb=20191108132817" decoding="async" width="35" height="35" class="thumbimage" data-image-name="Stealth FE16.png" data-image-key="Stealth_FE16.png" data-src="https://static.wikia.nocookie.net/fireemblem/images/8/8e/Stealth_FE16.png/revision/latest/scale-to-width-down/35?cb=20191108132817" /></a> 	 		 		 		 	 
+
+Stealth
+
+AssassinTrickster
+
+Makes it more difficult for foes to target unit.
+
+ 	 	<a href="https://static.wikia.nocookie.net/fireemblem/images/1/12/Axe_Crit_%2B10_FE16.png/revision/latest?cb=20190724122729" class="image"><img alt="Axe Crit +10 FE16.png" src="https://static.wikia.nocookie.net/fireemblem/images/1/12/Axe_Crit_%2B10_FE16.png/revision/latest/scale-to-width-down/35?cb=20190724122729" decoding="async" width="35" height="35" class="thumbimage" data-image-name="Axe Crit +10 FE16.png" data-image-key="Axe_Crit_%2B10_FE16.png" data-src="https://static.wikia.nocookie.net/fireemblem/images/1/12/Axe_Crit_%2B10_FE16.png/revision/latest/scale-to-width-down/35?cb=20190724122729" /></a> 	 		 		 		 	 
+
+Axe Critical +10
+
+Warrior
+
+Grants Crit +10 when using an axe.
+
+
+
+Critical +20
+
+War Master
+
+Increases Crit by 20.
+
+ 	 	<a href="https://static.wikia.nocookie.net/fireemblem/images/3/38/Fiendish_Blow_FE16.png/revision/latest?cb=20191030033352" class="image"><img alt="Fiendish Blow FE16.png" src="https://static.wikia.nocookie.net/fireemblem/images/3/38/Fiendish_Blow_FE16.png/revision/latest/scale-to-width-down/35?cb=20191030033352" decoding="async" width="35" height="35" class="thumbimage" data-image-name="Fiendish Blow FE16.png" data-image-key="Fiendish_Blow_FE16.png" data-src="https://static.wikia.nocookie.net/fireemblem/images/3/38/Fiendish_Blow_FE16.png/revision/latest/scale-to-width-down/35?cb=20191030033352" /></a> 	 		 		 		 	 
+
+Fiendish Blow
+
+Dark BishopVerrat
+
+If unit initiates combat, grants Mag +6 during combat.
+
+ 	 	<a href="https://static.wikia.nocookie.net/fireemblem/images/3/34/Lucky_7_FE16.png/revision/latest?cb=20200309230645" class="image"><img alt="Lucky 7 FE16.png" src="https://static.wikia.nocookie.net/fireemblem/images/3/34/Lucky_7_FE16.png/revision/latest/scale-to-width-down/35?cb=20200309230645" decoding="async" width="35" height="35" class="thumbimage" data-image-name="Lucky 7 FE16.png" data-image-key="Lucky_7_FE16.png" data-src="https://static.wikia.nocookie.net/fireemblem/images/3/34/Lucky_7_FE16.png/revision/latest/scale-to-width-down/35?cb=20200309230645" /></a> 	 		 		 		 	 
+
+Lucky Seven
+
+Trickster
+
+Each turn, grants +5 to one of the following stats: Str, Mag, Spd, Def, Res, Hit or Avo.
+
+ 	 	<a href="https://static.wikia.nocookie.net/fireemblem/images/8/88/Transmute_FE16.png/revision/latest?cb=20200309230627" class="image"><img alt="Transmute FE16.png" src="https://static.wikia.nocookie.net/fireemblem/images/8/88/Transmute_FE16.png/revision/latest/scale-to-width-down/35?cb=20200309230627" decoding="async" width="35" height="35" class="thumbimage" data-image-name="Transmute FE16.png" data-image-key="Transmute_FE16.png" data-src="https://static.wikia.nocookie.net/fireemblem/images/8/88/Transmute_FE16.png/revision/latest/scale-to-width-down/35?cb=20200309230627" /></a> 	 		 		 		 	 
+
+Transmute
+
+Dark Flier
+
+If unit is hit with a magic attack during enemy phase, grants +3 to all stats until next player phase ends.
+
+
+
+Black Magic Range +1
+
+Valkyrie
+
+Increases black magic range by 1.
+
+
+
+Dark Magic Range +1
+
+Valkyrie
+
+Increases dark magic range by 1.
+
+
+
+Seal Magic
+
+Agastya
+
+If unit damages foe during combat, foe suffers Mag -6 for 1 turn after combat.
+
+
+
+Seal Strength
+
+Agastya
+
+If unit damages foe during combat, foe suffers Str -6 for 1 turn after combat.
+
+
+
+Commander
+
+ArchbishopSaintKing of Liberation
+
+Nullifies instant death effects, status effects, and movement effects, and greatly reduces damage from enemy gambits.
+
+
+
+Ancient Dragonskin
+
+The Immaculate OneLord of the DesertLord of the Lake
+
+Halves all damage taken, negates some abilities and combat arts, and prevents unit from being moved.
+
+
+
+Ancient Dragon Wrath
+
+The Immaculate One (Crimson Flower Only)
+
+Calculates damage using the lower of the foe's Prt or Rsl.
+
+
+
+Counterattack
+
+The Immaculate OneLord of the DesertLord of the LakeUmbral Beast
+
+Allows unit to counterattack regardless of distance to attacker.
+
+
+
+Surging Light
+
+The Immaculate One (Silver Snow Only)
+
+Performs Staggering Blow immediately.
+
+
+
+Armored Blow
+
+Lord of the Lake
+
+If unit initiates combat, grants Def +6 during combat.
+
+
+
+Death Blow
+
+The Immaculate One (Crimson Flower Only) Black Beast
+
+If unit initiates combat, grants Str +6 during combat.
+
+
+
+Magic Bind
+
+The Immaculate One (Crimson Flower Only) Black Beast
+
+If unit lands a hit, targeted foe is unable to use magic for 1 turn.
+
+
+
+Wrath
+
+The Immaculate One (Crimson Flower Only) 
+
+If foe initiates combat while unit’s HP is ≤ 50%, grants Crit +50.
+
+
+
+Miracle
+
+The Immaculate One (Silver Snow Only)Lord of the DesertLord of the Lake
+
+Chance to survive lethal damage with 1 HP, if HP is > 1. Trigger % = Lck stat.
+
+
+
+Defiant Strength
+
+The Immaculate One (Silver Snow Only)
+
+Grants Str +8 when HP is ≤ 25%.
+
+
+
+Darting Blow
+
+Lord of the Desert
+
+If unit initiates combat, grants AS +6 during combat.
+
+
+
+Desperation
+
+Lord of the Desert
+
+If unit initiates combat with HP ≤ 50%, unit’s follow-up attack (if possible) occurs before foe’s counterattack.
+
+
+
+Renewal
+
+Lord of the Lake
+
+Unit recovers up to 20% of max HP at the start of each turn.
+
+
+
+Quick Riposte
+
+Lord of the Lake
+
+If Unit's HP ≥ 50%, if attacked by a foe, unit automatically makes a follow-up attack.
+
+
+
+Vital Defense
+
+The Immaculate OneLord of the DesertBlack BeastHegemon HuskUmbral Beast
+
+Makes critical hits against this unit impossible.
+
+
+
+Giant Wings
+
+The Immaculate One (Crimson Flower Only)Lord of the DesertFlying Demonic BeastGiant BirdWhite Beast
+
+Grants Avo +30 against sword, lance, or axe users.
+
+
+
+Divine Dragon Horn
+
+The Immaculate One (Silver Snow Only)
+
+Unit recovers 100% of HP at the start of each turn if a White Beast is within 10 spaces.
+
+
+
+Pavise
+
+Lord of the LakeTitanus
+
+Chance to reduce sword/lance/axe/brawling damage by half. Trigger % = Dex stat.
+
+
+
+Aegis
+
+Lord of the LakeTitanus
+
+Chance to reduce bow/magic damage by half. Trigger % = Dex stat.
+
+
+
+Anti-Magic Armor
+
+Altered Golem
+
+Nullifies damage from magic attacks.
+
+///////////////standard abilities
+Skill
+Skill Lvl
+Icon
+Ability
+Effect
+Characters
+
+Sword
+
+E+
+
+
+
+Sword Prowess Lv. 1
+
+Grants Hit +5, Avo +7 and Crit Avo +5 when using a sword.
+
+All
+
+D+
+
+
+
+Sword Prowess Lv. 2
+
+Grants Hit +6, Avo +10 and Crit Avo +6 when using a sword.
+
+All
+
+C+
+
+
+
+Sword Prowess Lv. 3
+
+Grants Hit +7, Avo +13 and Crit Avo +7 when using a sword.
+
+All
+
+B
+
+
+
+Axebreaker
+
+Grants Hit/Avo +20 when using a sword against axe users.
+
+All
+
+B+
+
+
+
+Sword Prowess Lv. 4
+
+Grants Hit +8, Avo +16 and Crit Avo +8 when using a sword.
+
+All
+
+A+
+
+
+
+Sword Prowess Lv. 5
+
+Grants Hit +10, Avo +20 and Crit Avo +10 when using a sword.
+
+All
+
+S
+
+
+
+Sword Critical +10
+
+Grants Crit +10 when using a sword.
+
+All
+
+S+
+
+ 	 	<a href="https://static.wikia.nocookie.net/fireemblem/images/2/27/Swordfaire_FE16.png/revision/latest?cb=20191108141021" class="image"><img alt="Swordfaire FE16.png" src="https://static.wikia.nocookie.net/fireemblem/images/2/27/Swordfaire_FE16.png/revision/latest/scale-to-width-down/35?cb=20191108141021" decoding="async" width="35" height="35" class="thumbimage" data-image-name="Swordfaire FE16.png" data-image-key="Swordfaire_FE16.png" data-src="https://static.wikia.nocookie.net/fireemblem/images/2/27/Swordfaire_FE16.png/revision/latest/scale-to-width-down/35?cb=20191108141021" /></a> 	 		 		 		 	 
+
+Swordfaire
+
+Grants Atk +5 when using a sword.
+
+All
+
+Lance
+
+E+
+
+
+
+Lance Prowess Lv.1
+
+Grants Hit +6, Avo +6 and Crit Avo +5 when using a lance.
+
+All
+
+D+
+
+
+
+Lance Prowess Lv.2
+
+Grants Hit +8, Avo +8 and Crit Avo +6 when using a lance.
+
+All
+
+C+
+
+
+
+Lance Prowess Lv.3
+
+Grants Hit +10, Avo +10 and Crit Avo +7 when using a lance.
+
+All
+
+B
+
+
+
+Swordbreaker
+
+Grants Hit/Avo +20 when using a lance against sword users.
+
+All
+
+B+
+
+
+
+Lance Prowess Lv.4
+
+Grants Hit +12, Avo +12 and Crit Avo +8 when using a lance.
+
+All
+
+A+
+
+
+
+Lance Prowess Lv.5
+
+Grants Hit +15, Avo +15 and Crit Avo +10 when using a lance.
+
+All
+
+S
+
+
+
+Lance Critical +10
+
+Grants Crit +10 when using a lance.
+
+All
+
+S+
+
+ 	 	<a href="https://static.wikia.nocookie.net/fireemblem/images/a/a1/Lancefaire_FE16.png/revision/latest?cb=20191031004353" class="image"><img alt="Lancefaire FE16.png" src="https://static.wikia.nocookie.net/fireemblem/images/a/a1/Lancefaire_FE16.png/revision/latest/scale-to-width-down/35?cb=20191031004353" decoding="async" width="35" height="35" class="thumbimage" data-image-name="Lancefaire FE16.png" data-image-key="Lancefaire_FE16.png" data-src="https://static.wikia.nocookie.net/fireemblem/images/a/a1/Lancefaire_FE16.png/revision/latest/scale-to-width-down/35?cb=20191031004353" /></a> 	 		 		 		 	 
+
+Lancefaire
+
+Grants Atk +5 when using a lance.
+
+All
+
+Axe
+
+E+
+
+
+
+Axe Prowess Lv.1
+
+Grants Hit +7, Avo +5 and Crit Avo +5 when using an axe.
+
+All
+
+D+
+
+
+
+Axe Prowess Lv.2
+
+Grants Hit +10, Avo +6 and Crit Avo +6 when using an axe.
+
+All
+
+C+
+
+
+
+Axe Prowess Lv.3
+
+Grants Hit +13, Avo +7 and Crit Avo +7 when using an axe.
+
+All
+
+B
+
+
+
+Lancebreaker
+
+Grants Hit/Avo +20 when using an axe against lance users.
+
+All
+
+B+
+
+
+
+Axe Prowess Lv.4
+
+Grants Hit +16, Avo +8 and Crit Avo +8 when using an axe.
+
+All
+
+A+
+
+
+
+Axe Prowess Lv.5
+
+Grants Hit +20, Avo +10 and Crit Avo +10 when using an axe.
+
+All
+
+S
+
+
+
+Axe Critical +10
+
+Grants Crit +10 when using an axe.
+
+All
+
+S+
+
+
+
+Axefaire
+
+Grants Atk +5 when using an axe.
+
+All
+
+Bow
+
+E+
+
+
+
+Bow Prowess Lv.1
+
+Grants Hit +6, Avo +6 and Crit Avo +5 when using a bow.
+
+All
+
+D+
+
+
+
+Bow Prowess Lv.2
+
+Grants Hit +8, Avo +8 and Crit Avo +6 when using a bow.
+
+All
+
+C
+
+
+
+Close Counter
+
+Allows unit to counterattack adjacent foes.
+
+All
+
+C+
+
+
+
+Bow Prowess Lv.3
+
+Grants Hit +10, Avo +10 and Crit Avo +7 when using a bow.
+
+All
+
+B+
+
+
+
+Bow Prowess Lv.4
+
+Grants Hit +12, Avo +12 and Crit Avo +8 when using a bow.
+
+All
+
+A+
+
+
+
+Bow Prowess Lv.5
+
+Grants Hit +15, Avo +15 and Crit Avo +10 when using a bow.
+
+All
+
+S
+
+
+
+Bow Critical +10
+
+Grants Crit +10 when using a bow.
+
+All
+
+S+
+
+ 	 	<a href="https://static.wikia.nocookie.net/fireemblem/images/2/24/Bowfaire_FE16.png/revision/latest?cb=20190723215350" class="image"><img alt="Bowfaire FE16.png" src="https://static.wikia.nocookie.net/fireemblem/images/2/24/Bowfaire_FE16.png/revision/latest/scale-to-width-down/35?cb=20190723215350" decoding="async" width="35" height="35" class="thumbimage" data-image-name="Bowfaire FE16.png" data-image-key="Bowfaire_FE16.png" data-src="https://static.wikia.nocookie.net/fireemblem/images/2/24/Bowfaire_FE16.png/revision/latest/scale-to-width-down/35?cb=20190723215350" /></a> 	 		 		 		 	 
+
+Bowfaire
+
+Grants Atk +5 when using a bow.
+
+All
+
+Brawl
+
+E+
+
+
+
+Brawling Prowess Lv.1
+
+Grants Hit +5, Avo +7 and Crit Avo +5 when brawling.
+
+All
+
+D+
+
+
+
+Brawling Prowess Lv.2
+
+Grants Hit +6, Avo +10 and Crit Avo +6 when brawling.
+
+All
+
+C+
+
+
+
+Brawling Prowess Lv.3
+
+Grants Hit +7, Avo +13 and Crit Avo +7 when brawling.
+
+All
+
+B+
+
+
+
+Brawling Prowess Lv.4
+
+Grants Hit +8, Avo +16 and Crit Avo +8 when brawling.
+
+All
+
+A+
+
+
+
+Brawling Prowess Lv.5
+
+Grants Hit +10, Avo +20 and Crit Avo +10 when brawling.
+
+All
+
+S
+
+
+
+Brawl Critical +10
+
+Grants Crit +10 when brawling.
+
+All
+
+S+
+
+ 	 	<a href="https://static.wikia.nocookie.net/fireemblem/images/8/83/Fistfaire_FE16.png/revision/latest?cb=20191030033421" class="image"><img alt="Fistfaire FE16.png" src="https://static.wikia.nocookie.net/fireemblem/images/8/83/Fistfaire_FE16.png/revision/latest/scale-to-width-down/35?cb=20191030033421" decoding="async" width="35" height="35" class="thumbimage" data-image-name="Fistfaire FE16.png" data-image-key="Fistfaire_FE16.png" data-src="https://static.wikia.nocookie.net/fireemblem/images/8/83/Fistfaire_FE16.png/revision/latest/scale-to-width-down/35?cb=20191030033421" /></a> 	 		 		 		 	 
+
+Fistfaire
+
+Grants Atk +5 when brawling.
+
+All
+
+Reason
+
+E+
+
+
+
+Reason Prowess Lv.1
+
+Grants Hit +7, Avo +5 and Crit Avo +5 when using black or dark magic.
+
+All
+
+D+
+
+
+
+Reason Prowess Lv.2
+
+Grants Hit +10, Avo +6 and Crit Avo +6 when using black or dark magic.
+
+All
+
+C+
+
+
+
+Reason Prowess Lv.3
+
+Grants Hit +13, Avo +7 and Crit Avo +7 when using black or dark magic.
+
+All
+
+B+
+
+
+
+Reason Prowess Lv.4
+
+Grants Hit +16, Avo +8 and Crit Avo +8 when using black or dark magic.
+
+All
+
+A+
+
+
+
+Reason Prowess Lv.5
+
+Grants Hit +20, Avo +10 and Crit Avo +10 when using black or dark magic.
+
+All
+
+S
+
+
+
+Black Magic Range +1
+
+Increases black magic range by 1.
+
+All but Edelgard, Hubert, Lysithea, and Hapi
+
+S
+
+
+
+Dark Magic Range +1
+
+Increases dark magic range by 1.
+
+Edelgard, Hubert, Lysithea, and Hapi
+
+S+
+
+
+
+Black Tomefaire
+
+Grants Atk +5 when using black magic.
+
+All but Edelgard, Hubert, Lysithea, and Hapi
+
+S+
+
+
+
+Dark Tomefaire
+
+Grants Atk +5 when using dark magic.
+
+Edelgard, Hubert, Lysithea, and Hapi
+
+Faith
+
+E+
+
+ 	 	<a href="https://static.wikia.nocookie.net/fireemblem/images/6/6d/Faith_Lv_1.png/revision/latest?cb=20191030033100" class="image"><img alt="Faith Lv 1.png" src="https://static.wikia.nocookie.net/fireemblem/images/6/6d/Faith_Lv_1.png/revision/latest/scale-to-width-down/35?cb=20191030033100" decoding="async" width="35" height="35" class="thumbimage" data-image-name="Faith Lv 1.png" data-image-key="Faith_Lv_1.png" data-src="https://static.wikia.nocookie.net/fireemblem/images/6/6d/Faith_Lv_1.png/revision/latest/scale-to-width-down/35?cb=20191030033100" /></a> 	 		 		 		 	 
+
+Faith Prowess Lv.1
+
+Grants Hit +5, Avo +7 and Crit Avo +5 when using white magic.
+
+All
+
+D+
+
+ 	 	<a href="https://static.wikia.nocookie.net/fireemblem/images/e/e5/Faith_Lv_2.png/revision/latest?cb=20191030033217" class="image"><img alt="Faith Lv 2.png" src="https://static.wikia.nocookie.net/fireemblem/images/e/e5/Faith_Lv_2.png/revision/latest/scale-to-width-down/35?cb=20191030033217" decoding="async" width="35" height="35" class="thumbimage" data-image-name="Faith Lv 2.png" data-image-key="Faith_Lv_2.png" data-src="https://static.wikia.nocookie.net/fireemblem/images/e/e5/Faith_Lv_2.png/revision/latest/scale-to-width-down/35?cb=20191030033217" /></a> 	 		 		 		 	 
+
+Faith Prowess Lv.2
+
+Grants Hit +6, Avo +10 and Crit Avo +6 when using white magic.
+
+All
+
+C+
+
+ 	 	<a href="https://static.wikia.nocookie.net/fireemblem/images/9/9e/Faith_Lv_3.png/revision/latest?cb=20191030033226" class="image"><img alt="Faith Lv 3.png" src="https://static.wikia.nocookie.net/fireemblem/images/9/9e/Faith_Lv_3.png/revision/latest/scale-to-width-down/35?cb=20191030033226" decoding="async" width="35" height="35" class="thumbimage" data-image-name="Faith Lv 3.png" data-image-key="Faith_Lv_3.png" data-src="https://static.wikia.nocookie.net/fireemblem/images/9/9e/Faith_Lv_3.png/revision/latest/scale-to-width-down/35?cb=20191030033226" /></a> 	 		 		 		 	 
+
+Faith Prowess Lv.3
+
+Grants Hit +7, Avo +13 and Crit Avo +7 when using white magic.
+
+All
+
+B+
+
+ 	 	<a href="https://static.wikia.nocookie.net/fireemblem/images/0/0d/Faith_Lv_4.png/revision/latest?cb=20191030033235" class="image"><img alt="Faith Lv 4.png" src="https://static.wikia.nocookie.net/fireemblem/images/0/0d/Faith_Lv_4.png/revision/latest/scale-to-width-down/35?cb=20191030033235" decoding="async" width="35" height="35" class="thumbimage" data-image-name="Faith Lv 4.png" data-image-key="Faith_Lv_4.png" data-src="https://static.wikia.nocookie.net/fireemblem/images/0/0d/Faith_Lv_4.png/revision/latest/scale-to-width-down/35?cb=20191030033235" /></a> 	 		 		 		 	 
+
+Faith Prowess Lv.4
+
+Grants Hit +8, Avo +16 and Crit Avo +8 when using white magic.
+
+All
+
+A+
+
+ 	 	<a href="https://static.wikia.nocookie.net/fireemblem/images/6/6c/Faith_Lv_5.png/revision/latest?cb=20191030033247" class="image"><img alt="Faith Lv 5.png" src="https://static.wikia.nocookie.net/fireemblem/images/6/6c/Faith_Lv_5.png/revision/latest/scale-to-width-down/35?cb=20191030033247" decoding="async" width="35" height="35" class="thumbimage" data-image-name="Faith Lv 5.png" data-image-key="Faith_Lv_5.png" data-src="https://static.wikia.nocookie.net/fireemblem/images/6/6c/Faith_Lv_5.png/revision/latest/scale-to-width-down/35?cb=20191030033247" /></a> 	 		 		 		 	 
+
+Faith Prowess Lv.5
+
+Grants Hit +10, Avo +20 and Crit Avo +10 when using white magic.
+
+All
+
+S
+
+
+
+White Magic Range +1
+
+Increases White Magic range by 1 for attacks that damage foes.
+
+All
+
+S+
+
+ 	 	<a href="https://static.wikia.nocookie.net/fireemblem/images/c/c9/White_Tomefaire_FE16.png/revision/latest?cb=20191108213003" class="image"><img alt="White Tomefaire FE16.png" src="https://static.wikia.nocookie.net/fireemblem/images/c/c9/White_Tomefaire_FE16.png/revision/latest/scale-to-width-down/35?cb=20191108213003" decoding="async" width="35" height="35" class="thumbimage" data-image-name="White Tomefaire FE16.png" data-image-key="White_Tomefaire_FE16.png" data-src="https://static.wikia.nocookie.net/fireemblem/images/c/c9/White_Tomefaire_FE16.png/revision/latest/scale-to-width-down/35?cb=20191108213003" /></a> 	 		 		 		 	 
+
+White Tomefaire
+
+Grants Atk +5 when using white magic.
+
+All
+
+Authority
+
+E+
+
+ 	 	<a href="https://static.wikia.nocookie.net/fireemblem/images/a/aa/Authority_Lv_1.png/revision/latest?cb=20191029184627" class="image"><img alt="Authority Lv 1.png" src="https://static.wikia.nocookie.net/fireemblem/images/a/aa/Authority_Lv_1.png/revision/latest/scale-to-width-down/35?cb=20191029184627" decoding="async" width="35" height="35" class="thumbimage" data-image-name="Authority Lv 1.png" data-image-key="Authority_Lv_1.png" data-src="https://static.wikia.nocookie.net/fireemblem/images/a/aa/Authority_Lv_1.png/revision/latest/scale-to-width-down/35?cb=20191029184627" /></a> 	 		 		 		 	 
+
+Authority Prowess Lv.1
+
+Grants Mt +2 with gambits.
+
+All
+
+D
+
+
+
+Rally Magic
+
+Use Rally to grant Mag +4 to an ally.
+
+Hubert, Ingrid, Constance
+
+D/
+S
+
+
+
+
+Rally Charm
+
+Use Rally to grant Cha +8 to an ally.
+
+Dorothea, Manuela, Edelgard, Dimitri, Claude
+
+D/
+C+
+
+
+
+
+Rally Dexterity
+
+Use Rally to grant Dex +8 to an ally.
+
+Ferdinand, Ignatz, Hapi
+
+D/
+C/
+C+/
+S
+
+
+
+
+Rally Resistance
+
+Use Rally to grant Res +4 to an ally.
+
+Annette, Hubert, Seteth, Constance
+
+D/
+S
+
+
+
+
+Rally Strength
+
+Use Rally to grant Str +4 to an ally.
+
+Raphael, Alois, Ignatz, Balthus
+
+D/
+C+/
+S
+
+
+
+
+Rally Speed
+
+Use Rally to grant Spd +4 to an ally.
+
+Ignatz, Annette, Hubert
+
+D
+
+
+
+Rally Defense
+
+Use Rally to grant Def +4 to an ally.
+
+Seteth, Gilbert
+
+D
+
+
+
+Rally Luck
+
+Use Rally to grant Lck +8 to an ally.
+
+Flayn, Anna
+
+D+
+
+ 	 	<a href="https://static.wikia.nocookie.net/fireemblem/images/f/f2/Authority_Lv_2.png/revision/latest?cb=20191029184654" class="image"><img alt="Authority Lv 2.png" src="https://static.wikia.nocookie.net/fireemblem/images/f/f2/Authority_Lv_2.png/revision/latest/scale-to-width-down/35?cb=20191029184654" decoding="async" width="35" height="35" class="thumbimage" data-image-name="Authority Lv 2.png" data-image-key="Authority_Lv_2.png" data-src="https://static.wikia.nocookie.net/fireemblem/images/f/f2/Authority_Lv_2.png/revision/latest/scale-to-width-down/35?cb=20191029184654" /></a> 	 		 		 		 	 
+
+Authority Prowess Lv.2
+
+Grants Mt +4 with gambits.
+
+All
+
+C/
+A
+
+
+
+
+Battalion Vantage
+
+When foe initiates combat, unit still attacks first if battalion endurance is ≤ 1/3.
+
+Byleth, Edelgard, Felix, Sylvain, Lorenz, Catherine, Dimitri, Ignatz, Anna, Yuri
+
+C/
+A
+
+
+
+
+Battalion Wrath
+
+If foe initiates combat while unit’s battalion endurance is ≤ 1/3, grants Crit +50.
+
+Hubert, Bernadetta, Caspar, Petra, Dimitri, Dedue, Hilda, Raphael, Seteth, Alois, Gilbert, Annette, Claude, Jeritza, Hapi
+
+C/
+A
+
+
+
+
+Battalion Desperation
+
+If unit initiates combat when battalion endurance is ≤ 1/3, unit’s follow-up attack (if possible) occurs before foe’s counterattack.
+
+Dorothea, Ferdinand, Ashe, Ingrid, Claude, Lysithea, Ignatz, Leonie, Hanneman, Cyril, Shamir, Byleth, Hubert, Seteth, Jeritza, Balthus
+
+C/
+A
+
+
+
+
+Battalion Renewal
+
+Unit recovers up to 30% of max HP at the start of each turn while battalion endurance is ≤ 1/3.
+
+Linhardt, Mercedes, Annette, Marianne, Manuela, Flayn, Edelgard
+
+C+
+
+ 	 	<a href="https://static.wikia.nocookie.net/fireemblem/images/1/17/Authority_Lv_3.png/revision/latest?cb=20191029185012" class="image"><img alt="Authority Lv 3.png" src="https://static.wikia.nocookie.net/fireemblem/images/1/17/Authority_Lv_3.png/revision/latest/scale-to-width-down/35?cb=20191029185012" decoding="async" width="35" height="35" class="thumbimage" data-image-name="Authority Lv 3.png" data-image-key="Authority_Lv_3.png" data-src="https://static.wikia.nocookie.net/fireemblem/images/1/17/Authority_Lv_3.png/revision/latest/scale-to-width-down/35?cb=20191029185012" /></a> 	 		 		 		 	 
+
+Authority Prowess Lv.3
+
+Grants Mt +6 with gambits.
+
+All
+
+C+
+
+
+
+Model Leader
+
+Doubles experience earned for battalions.
+
+Byleth, Edelgard, Dimitri, Seteth, Claude, Yuri
+
+B
+
+
+
+Defensive Tactics
+
+Battalion endurance takes half damage.
+
+All
+
+B+
+
+ 	 	<a href="https://static.wikia.nocookie.net/fireemblem/images/0/0b/Authority_Lv_4.png/revision/latest?cb=20191029185321" class="image"><img alt="Authority Lv 4.png" src="https://static.wikia.nocookie.net/fireemblem/images/0/0b/Authority_Lv_4.png/revision/latest/scale-to-width-down/35?cb=20191029185321" decoding="async" width="35" height="35" class="thumbimage" data-image-name="Authority Lv 4.png" data-image-key="Authority_Lv_4.png" data-src="https://static.wikia.nocookie.net/fireemblem/images/0/0b/Authority_Lv_4.png/revision/latest/scale-to-width-down/35?cb=20191029185321" /></a> 	 		 		 		 	 
+
+Authority Prowess Lv.4
+
+Grants Mt +8 with gambits.
+
+All
+
+A+
+
+ 	 	<a href="https://static.wikia.nocookie.net/fireemblem/images/7/74/Authority_Lv_5.png/revision/latest?cb=20191029185350" class="image"><img alt="Authority Lv 5.png" src="https://static.wikia.nocookie.net/fireemblem/images/7/74/Authority_Lv_5.png/revision/latest/scale-to-width-down/35?cb=20191029185350" decoding="async" width="35" height="35" class="thumbimage" data-image-name="Authority Lv 5.png" data-image-key="Authority_Lv_5.png" data-src="https://static.wikia.nocookie.net/fireemblem/images/7/74/Authority_Lv_5.png/revision/latest/scale-to-width-down/35?cb=20191029185350" /></a> 	 		 		 		 	 
+
+Authority Prowess Lv.5
+
+Grants Mt +10 with gambits.
+
+All
+
+S
+
+
+
+Rally Movement
+
+Use Rally to grant Mv +1 to an ally.
+
+Byleth, Annette
+
+S+
+
+
+
+Offensive Tactics
+
+Grants Mt +5 and Hit +20 with gambits.
+
+All
+
+Heavy Armor
+
+C
+
+
+
+Weight -3
+
+Reduces total equipment weight by 3.
+
+All
+
+A+
+
+
+
+Weight -5
+
+Reduces total equipment weight by 5.
+
+All
+
+S+
+
+
+
+Armored Effect Null
+
+Nullifies any extra effectiveness against armored units.
+
+All
+
+Riding
+
+C
+
+
+
+Dexterity +4
+
+Increases Dex by 4.
+
+All
+
+A+
+
+
+
+Movement +1
+
+Increases Mv by 1.
+
+All
+
+S+
+
+
+
+Cavalry Effect Null
+
+Nullifies any extra effectiveness against cavalry units.
+
+All
+
+Flying
+
+B
+
+
+
+Alert Stance
+
+If unit takes no action except Wait, grants Avo +15 for 1 turn.
+
+All
+
+A+
+
+
+
+Alert Stance+
+
+If unit takes no action except Wait, grants Avo +30 for 1 turn.
+
+All
+
+S+
+
+
+
+Flying Effect Null
+
+Nullifies any extra effectiveness against flying units.
+
+All
+/////////////abilities learned from mastering classes
+Icon
+Ability
+Effect
+Mastered Class
+
+
+
+HP +5
+
+Increases HP by 5
+
+NobleCommoner
+
+
+
+Speed +2
+
+Increases Spd by 2
+
+Myrmidon
+
+
+
+Defense +2
+
+Increases Def by 2
+
+Soldier
+
+
+
+Strength +2
+
+Increases Str by 2
+
+Fighter
+
+
+
+Magic +2
+
+Increases Mag by 2
+
+Monk
+
+
+
+Resistance +2
+
+Increases Res by 2
+
+Lord
+
+ 	 	<a href="https://static.wikia.nocookie.net/fireemblem/images/d/d9/Vantage_FE16.png/revision/latest?cb=20191108142036" class="image"><img alt="Vantage FE16.png" src="https://static.wikia.nocookie.net/fireemblem/images/d/d9/Vantage_FE16.png/revision/latest/scale-to-width-down/35?cb=20191108142036" decoding="async" width="35" height="35" class="thumbimage" data-image-name="Vantage FE16.png" data-image-key="Vantage_FE16.png" data-src="https://static.wikia.nocookie.net/fireemblem/images/d/d9/Vantage_FE16.png/revision/latest/scale-to-width-down/35?cb=20191108142036" /></a> 	 		 		 		 	 
+
+Vantage
+
+When foe initiates combat, unit still attacks first if HP is ≤ 50%.
+
+Mercenary
+
+ 	 	<a href="https://static.wikia.nocookie.net/fireemblem/images/e/e3/Steal_FE16.png/revision/latest?cb=20191108132422" class="image"><img alt="Steal FE16.png" src="https://static.wikia.nocookie.net/fireemblem/images/e/e3/Steal_FE16.png/revision/latest/scale-to-width-down/35?cb=20191108132422" decoding="async" width="35" height="35" class="thumbimage" data-image-name="Steal FE16.png" data-image-key="Steal_FE16.png" data-src="https://static.wikia.nocookie.net/fireemblem/images/e/e3/Steal_FE16.png/revision/latest/scale-to-width-down/35?cb=20191108132422" /></a> 	 		 		 		 	 
+
+Steal
+
+Allows unit to steal a non-weapon item from a foe with a lower Spd stat.
+
+Thief
+
+
+
+Desperation
+
+If unit initiates combat with HP ≤ 50%, unit’s follow-up attack (if possible) occurs before foe’s counterattack.
+
+Cavalier
+
+
+
+Darting Blow
+
+If unit initiates combat, grants AS +6 during combat.
+
+Pegasus Knight
+
+
+
+Death Blow
+
+If unit initiates combat, grants Str +6 during combat.
+
+Brigand
+
+
+
+Armored Blow
+
+If unit initiates combat, grants Def +6 during combat.
+
+Armored Knight
+
+
+
+Hit +20
+
+Increases Hit by 20.
+
+Archer
+
+ 	 	<a href="https://static.wikia.nocookie.net/fireemblem/images/e/e5/Unarmed_Combat_FE16.png/revision/latest?cb=20191108142010" class="image"><img alt="Unarmed Combat FE16.png" src="https://static.wikia.nocookie.net/fireemblem/images/e/e5/Unarmed_Combat_FE16.png/revision/latest/scale-to-width-down/35?cb=20191108142010" decoding="async" width="35" height="35" class="thumbimage" data-image-name="Unarmed Combat FE16.png" data-image-key="Unarmed_Combat_FE16.png" data-src="https://static.wikia.nocookie.net/fireemblem/images/e/e5/Unarmed_Combat_FE16.png/revision/latest/scale-to-width-down/35?cb=20191108142010" /></a> 	 		 		 		 	 
+
+Unarmed Combat
+
+Allows unit to fight without a weapon.
+
+Brawler
+
+
+
+Fiendish Blow
+
+If unit initiates combat, grants Mag+6 during combat
+
+Mage
+
+
+
+Poison Strike
+
+If unit initiates combat and lands a hit, targeted foe loses up to 20% of max HP after combat.
+
+Dark Mage
+
+
+
+Miracle
+
+Chance to survive lethal damage with 1 HP, if HP is > 1. Trigger % = Lck stat.
+
+Priest
+
+
+
+Special Dance
+
+When using the Dance ability, grant Dex/Spd/Lck +4 to target ally.
+
+Dancer
+
+
+
+Pomp & Circumstance
+
+Increases Lck/Cha by 4.
+
+Armored LordHigh LordWyvern Master
+
+
+
+Sacred Power
+
+Adjacent allies deal 3 extra damage and take 3 less damage during combat.
+
+Enlightened One
+
+
+
+Defiant Strength
+
+Grants Str +8 when HP is ≤ 25%.
+
+Hero
+
+
+
+Lethality
+
+Chance to instantly kill a foe when dealing damage. Trigger % = 0.25×Dex.
+
+Assassin
+
+
+
+Aegis
+
+Chance to reduce bow/magic damage by half. Trigger % = Dex stat.
+
+Paladin
+
+
+
+Wrath
+
+If foe initiates combat while unit’s HP is ≤ 50%, grants Crit +50.
+
+Warrior
+
+
+
+Pavise
+
+Chance to reduce sword/lance/axe/brawling damage by half. Trigger % = Dex stat.
+
+Fortress Knight
+
+
+
+Seal Defense
+
+If unit damages foe during combat, foe suffers Def -6 for 1 turn after combat.
+
+Wyvern Rider
+
+
+
+Tomebreaker
+
+Grants Hit/Avo +20 when brawling against magic users.
+
+Grappler
+
+
+
+Bowbreaker
+
+Grants Hit/Avo +20 when using magic against bow users.
+
+Warlock
+
+
+
+Lifetaker
+
+Unit recovers HP equal to 50% of damage dealt after defeating a foe.
+
+Dark Bishop
+
+
+
+Renewal
+
+Unit recovers up to 20% of max HP at the start of each turn.
+
+Bishop
+
+
+
+Warding Blow
+
+If unit initiates combat, grants Res +6 during combat.
+
+Mortal Savant
+
+
+
+Defiant Avoid
+
+Grants Avo +30 when HP is ≤ 25%.
+
+Falcon Knight
+
+
+
+Quick Riposte
+
+If foe initiates combat while unit’s HP is ≥ 50%, unit makes guaranteed follow-up attack.
+
+War Master
+
+
+
+Defiant Critical
+
+Grants Crit +50 when HP is ≤ 25%.
+
+Wyvern Lord
+
+
+
+Defiant Defense
+
+Grants Def +8 when HP is ≤ 25%.
+
+Great Knight
+
+
+
+Defiant Speed
+
+Grants Spd +8 when HP is ≤ 25%.
+
+Bow Knight
+
+
+
+Defiant Magic
+
+Grants Mag +8 when HP is ≤ 25%.
+
+Gremory
+
+
+
+Seal Resistance
+
+If unit damages foe during combat, foe suffers Res -6 for 1 turn after combat.
+
+Dark Knight
+
+
+
+Defiant Resistance
+
+Grants Res +8 when HP is ≤ 25%.
+
+Holy Knight
+
+
+
+Counterattack
+
+Allows unit to counterattack regardless of distance to attacker.
+
+Death Knight
+
+
+
+Duelist's Blow
+
+If unit initiates combat, grants Avo +20 during combat.
+
+Trickster
+
+
+
+Brawl Avo +20
+
+Grants Avo +20 when brawling.
+
+War MonkWar Cleric
+
+
+
+Transmute
+
+If unit is hit with a magic attack during enemy phase, grants +3 to all stats until next player phase ends.
+
+Dark Flier
+
+
+
+Uncanny Blow
+
+If unit initiates combat, grants Hit +30 during combat
+
+Valkyrie
+/////////////////budding talents
+Icon
+Ability
+
+Budding Talent
+Effect
+
+Characters
+
+
+
+Black Magic Critical +10
+
+Reason
+
+Grants Crit +10 when using black magic.
+
+Edelgard, Felix, Balthus
+
+
+
+Black Magic Avo +20
+
+Reason
+
+Grants Avo +20 when using black magic.
+
+Sylvain
+
+
+
+Seal Strength
+
+Reason
+
+If unit damages foe during combat, foe suffers Str -6 for 1 turn after combat.
+
+Ignatz
+
+
+
+Seal Magic
+
+Reason
+
+If unit damages foe during combat, foe suffers Mag -6 for 1 turn after combat.
+
+Flayn
+
+
+
+White Magic Avo +20
+
+Faith
+
+Grants Avo +20 when using white magic.
+
+Byleth, Dorothea
+
+
+
+Seal Speed
+
+Heavy Armor
+
+If unit damages foe during combat, foe suffers Spd -6 for 1 turn after combat.
+
+Ferdinand, Hilda
+
+
+
+Seal Movement
+
+Riding
+
+If unit damages foe during combat, foe suffers Mv -1 for 1 turn after combat.
+
+Dimitri
+
+
+
+Pass
+
+Riding
+
+Allows unit to pass through spaces occupied by foes.
+
+Bernadetta, Anna
+
+
+
+Darting Blow
+
+Flying
+
+If unit initiates combat, grants AS +6 during combat.
+
+Jeritza
+/////////////other abilities
+Icon
+Ability
+Effect
+
+How to Get
+
+
+
+Sword Avo +20
+
+Grants Avo +20 when using a sword.
+
+Win the White Heron Cup
+
+
+
+Mastermind
+
+Doubles skill experience earned in battle.
+
+Starting skill of Jeritza
+////////unknown enemy exclusive
+Icon
+Ability
+Effect
+
+
+
+[NAME UNKNOWN]
+
+[EFFECT UNKNOWN]
+
+
+
+[NAME UNKNOWN]
+
+[EFFECT UNKNOWN]
+
+
+
+[NAME UNKNOWN]
+
+[EFFECT UNKNOWN]
+
+
+
+Effect Null
+
+Cancels all types of effectiveness.
+
+
+
+Infantry Effect Null
+
+Cancels effectiveness against infantry units.
+
+
+
+Dragon Effect Null
+
+Cancels effectiveness against dragons.
+
+
+
+Monster Effect Null
+
+Nullifies any extra effectiveness against monsters.
+
+
+
+Swordbreaker+
+
+Grants Hit/Avo +30 when using a lance against sword users.
+
+
+
+Lancebreaker+
+
+Grants Hit/Avo +30 when using an axe against lance users.
+
+
+
+Axebreaker+
+
+Grants Hit/Avo +30 when using a sword against axe users.
+
+
+
+Fistbreaker
+
+Grants Hit/Avo +20 when using a bow against a brawling foe.
+
+
+
+Paragon
+
+Doubles experience earned.
+
+
+
+Discipline
+
+Doubles skill experience earned in battle.
+
+
+
+White Magic Crit +10
+
+Grants Crit +10 when using White Magic.
+
+
+
+Dark Magic Crit +10
+
+Grants Crit +10 when using Dark Magic.
+
+
+
+Lance Avo +20
+
+Grants Avo +20 when using a lance.
+
+
+
+Axe Avo +20
+
+Grants Avo +20 when using an axe.
+
+
+
+Bow Avo +20
+
+Grants Avo +20 when using a bow.
+
+
+
+Dark Magic Avo +20
+
+Grants Avo +20 when using dark magic.
+
+
+
+Black Magic Uses ×4
+
+Quadruples the number of uses for black magic.
+
+
+
+Dark Magic Uses ×4
+
+Quadruples the number of uses for dark magic.
+
+
+
+White Magic Uses ×4
+
+Quadruples the number of uses for white magic.
+
+
+
+Infinite Magic
+
+Removes the limitation on the number of times magic can be used.
+
+
+
+Immune Status
+
+Nullifies status effects and debuffs.
+
+
+
+Unsealable Magic
+
+Nullifies silence
+
+
+
+Magic Bind
+
+If unit lands a hit, targeted foe is unable to use magic for 1 turn.
+
+
+
+Noncombatant
+
+Unit cannot be targeted by foes.
+
+
+
+Poison
+
+Chance to inflict poison on foe when dealing damage. Trigger % = Dex stat.
+
+
+
+Cursed Power
+
+Unit recovers HP on swamp terrain.
+
+
+
+Anchor
+
+Prevents unit from being moved.
+
+
+
+Keen Intuition
+
+Grants Avo +30 during combat with a foe 2 or more spaces away.
+
+
+
+General
+
+Nullifies instant death effects and halves damage from enemy gambits.
+
+
+
+Commander
+
+Nullifies instant death effects, status effects, and movement effects, and greatly reduces damage from enemy gambits.
+
+
+
+Twin Crests
+
+Allows unit to take two actions in one turn.
+
+
+
+Ancient Dragon Wrath
+
+Calculates damage using the lower of the foe's Prt or Rsl.
+
+
+
+Surging Light
+
+Performs Staggering Blow immediately.
+
+
+
+Manifest Phantoms
+
+Unit births phantoms.
+
+
+
+Enhanced Fortitude
+
+Halves all damage taken, negates some abilities and combat arts, and prevents unit from being moved.
