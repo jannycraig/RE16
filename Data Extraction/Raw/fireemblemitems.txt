@@ -1,0 +1,3024 @@
+extracted by someone123#6741
+
+/*
+lines starting with ///'s means the start of a new table. right after those lines are data field names
+
+*/
+
+///////equipment
+Name
+
+Prt
+
+Wt
+
+Other
+
+Description
+
+
+
+Leather Shield
+
++1
+
+1
+
+
+
+A shield made of leather. Simple but sturdy.
+
+
+
+Iron Shield
+
++2
+
+2
+
+
+
+A wrought-iron shield. The standard for defense.
+
+
+
+Steel Shield
+
++3
+
+3
+
+
+
+A weighty shield offering strong protection.
+
+
+
+Silver Shield
+
++4
+
+4
+
+
+
+A Shield made of shining silver.
+
+
+
+Talisman Shield
+
++1
+
+4
+
+Rsl +2
+
+A well-balanced shield built to withstand both physical and magical attacks.
+
+
+
+Hexlock Shield
+
++2
+
+5
+
+Rsl +4
+
+A Shield offering strong protection and resilience.
+
+
+
+Aurora Shield
+
++3
+
+0
+
+
+
+A Shield that grants divine protection from projectiles. Nullifies effectiveness against fliers.
+
+
+
+Kadmos Shield
+
++3
+
+0
+
+
+
+A Shield that can stop armor-piercing attacks. Nullifies effectiveness against armored units.
+
+
+
+Lampos Shield
+
++3
+
+0
+
+
+
+A Shield that offers divine protection for steeds. Nullifies extra effectiveness against cavalry units.
+
+
+
+Ochain Shield
+
++6
+
+4
+
+
+
+A sacred shield linked to the crest of Cichol. Restores HP each turn and nullifies foe’s critical hits.
+
+
+
+Seiros Shield
+
++5
+
+3
+
+
+
+A sacred shield linked to the Crest of Seiros. Halves monster damage. Restores HP each turn.
+
+
+
+Aegis Shield
+
++6
+
+6
+
+Rsl +3
+
+A Hero's Relic that may halve damage taken if the wearer also bears the Crest of Fraldarius.
+
+
+
+Dark Aegis Shield
+
++10
+
+6
+
+Rsl +10
+
+Modeled after the Aegis Shield.  Created using ancient technology.
+
+
+
+Black Eagles Pendant
+
++0
+
+0
+
+Cha +2
+
+An elaborate pendant honoring the Black Eagles.
+
+
+
+Blue Lion Brooch
+
++0
+
+0
+
+Cha +2
+
+A simple brooch honoring the Blue Lions.
+
+
+
+Golden Deer Bracelet
+
++0
+
+0
+
+Cha +2
+
+An elegant bracelet honoring the Golden Deer.
+
+
+
+White Dragon Scarf
+
++0
+
+0
+
+Cha +2
+
+An embroidered scarf honoring the Immaculate One.
+
+
+
+Magic Staff
+
++0
+
+1
+
+Mag Atk +3
+
+A staff that guides the use of magic and raises MT for magical attacks.
+
+
+
+Healing Staff
+
++0
+
+1
+
+
+
+A staff that increases the effectiveness of magical healing.
+
+
+
+Circe Staff
+
++0
+
+1
+
+
+
+A magic staff created using ancient technology. Solon's preferred weapon.
+
+
+
+Caduceus Staff
+
++0
+
+1
+
+Range +1
+
+A sacred staff linked to the Crest of Cethlenn. Magic attack range+1. Restores HP every turn.
+
+
+
+Thyrsus
+
++0
+
+1
+
+Range +2
+
+A Hero's Relic linked to the Crest of Gloucester. Magic attack range +2. May halve damage.
+
+
+
+Dark Thyrsus
+
++0
+
+1
+
+Range +2
+
+Modeled after the Thyrsus Staff.  Created using ancient technology.
+
+
+
+Asclepius
+
++3
+
+1
+
+
+
+A magic staff created using ancient technology. Restores HP each turn.
+
+
+
+Accuracy Ring
+
++0
+
+0
+
+Hit +10
+
+A ring that increases hit rate of attacks.
+
+
+
+Critical Ring
+
++0
+
+0
+
+Crit +5
+
+A ring that increases critical-hit rate.
+
+
+
+Evasion Ring
+
++0
+
+0
+
+Avo +10
+
+A ring that increases avoidance rate.
+
+
+
+Speed Ring
+
++0
+
+0
+
+Spd +2
+
+A ring that increases speed.
+
+
+
+Goddess Ring
+
++0
+
+0
+
+Lck +4
+
+A ring endowed with the goddess's divine protection. Restores HP each turn.
+
+
+
+Prayer Ring
+
++0
+
+0
+
+
+
+A ring imbued with the prayers of a saint. Restores HP each turn.
+
+
+
+Fetters of Dromi
+
++0
+
+0
+
+Mv +1
+
+Lost Relic (Crest of Aubin). Increases movement, allows unit to move again, and may halve damage.
+
+
+
+Rafail Gem
+
++0
+
+0
+
+
+
+Gem of Lamine; nullifies user’s movement-type weaknesses, prevents foe’s critical hits and may halve damage received.
+
+
+
+Dark Rafail Gem
+
++0
+
+0
+
+
+
+Modeled after the Rafail Gem. Created using ancient technology.
+
+
+
+Experience Gem
+
++0
+
+0
+
+
+
+A mysterious gem that accelerates growth. Increases the amount of experience earned.
+
+
+
+Knowledge Gem
+
++0
+
+0
+
+
+
+A mysterious gem that supports skill acquisition. Increases the amount of skill experience earned.
+
+
+
+Chalice of Beginnings
+
++0
+
+0
+
+
+
+A chalice crafted by the goddess. Nullifies extra effectiveness. Allows counterattacks at any range
+
+
+////items table
+
+Name
+
+Uses
+
+Buy
+
+Sell
+
+Description
+
+Vulnerary
+
+3
+
+300
+
+100
+
+Used to recover 10 HP.
+
+Concoction
+
+3
+
+600
+
+200
+
+Used to recover 20 HP.
+
+Elixir
+
+3
+
+1200
+
+400
+
+Used to recover 99 HP.
+
+Beginner Seal
+
+1
+
+500
+
+100
+
+Allows unit to take the certification exam for a beginner class.
+
+Intermediate Seal
+
+1
+
+1000
+
+200
+
+Allows unit to take the certification exam for an intermediate class.
+
+Advanced Seal
+
+1
+
+2000
+
+400
+
+Allows unit to take the certification exam for an Advanced class.
+
+Master Seal
+
+1
+
+3000
+
+600
+
+Allows unit to take the certification exam for a master class.
+
+Dark Seal
+
+1
+
+300†
+
+100
+
+Allows unit to take the certification exam for a class that uses dark magic.
+
+Torch
+
+3
+
+600
+
+200
+
+A blazing flame that increases visibility in heavy fog.
+
+Antitoxin
+
+3
+
+600
+
+200
+
+Use to remove the effects of poison.
+
+Pure Water
+
+3
+
+600
+
+200
+
+Use to temporarily increase resistance by 7. Effect gradually wears off as turn count increases.
+
+Door Key
+
+1
+
+300
+
+100
+
+A key for unlocking doors.
+
+Chest Key
+
+1
+
+300
+
+100
+
+A key for unlocking chests.
+
+Master Key
+
+3
+
+
+
+200
+
+A key for unlocking doors or chests.
+
+Bullion
+
+-
+
+2000†
+
+1000
+
+A gold bullion that sells for a high price at shops.
+
+Large Bullion
+
+-
+
+
+
+5000
+
+A gold bullion that sells for a very high price at shops.
+
+Extra Large Bullion
+
+-
+
+
+
+10000
+
+A gold bullion that sells for an extremely high price at shops.
+
+Seraph Robe
+
+1
+
+2500†
+
+500
+
+Permanently increases max HP by 5.
+
+Sacred Floral Robe
+
+1
+
+-†
+
+-
+
+Permanently increases max HP by 7.
+
+Energy Drop
+
+1
+
+2500†
+
+500
+
+Permanently increases strength by 2.
+
+Sacred Snowmelt Drop
+
+1
+
+-†
+
+-
+
+Permanently increases strength by 3.
+
+Spirit Dust
+
+1
+
+2500†
+
+500
+
+Permanently increases magic by 2.
+
+Secret Book
+
+1
+
+2500†
+
+500
+
+Permanently increases dexterity by 2.
+
+Speedwing
+
+1
+
+2500†
+
+500
+
+Permanently increases speed by 2.
+
+Sacred Moonstone
+
+1
+
+-†
+
+-
+
+Permanently increases speed by 3.
+
+Goddess Icon
+
+1
+
+2500†
+
+500
+
+Permanently increases luck by 4.
+
+Giant Shell
+
+1
+
+2500†
+
+500
+
+Permanently increases defense by 2.
+
+Talisman
+
+1
+
+2500†
+
+500
+
+Permanently increases resistance by 2.
+
+Black Pearl
+
+1
+
+2500†
+
+500
+
+Permanently increases charm by 2.
+
+Fruit of Life
+
+1
+
+300†
+
+100
+
+Permanently increases HP by 1. A curious fruit said to extend one's lifespan.
+
+Rocky Burdock
+
+1
+
+300†
+
+100
+
+Permanently increases strength by 1. [...]
+
+Premium Magic Herbs
+
+1
+
+300†
+
+100
+
+Permanently increases magic by 1. A collection of especially pure magical herbs.
+
+Ailell Pomegranate
+
+1
+
+300†
+
+100
+
+Permanently increases dexterity by 1. Pomegranate that flourishes in harsh conditions.
+
+Speed Carrot
+
+1
+
+300†
+
+100
+
+Permanently increases speed by 1. Even among carrots, it grants especially fast feet.
+
+Miracle Bean
+
+1
+
+300†
+
+100
+
+Permanently increases luck by 1. A delicious bean from a plant that appeared overnight.
+
+Ambrosia
+
+1
+
+300†
+
+100
+
+Permanently increases defense by 1. A medicinal herb that can be used as a body salve.
+
+White Verona
+
+1
+
+300†
+
+100
+
+Permanently increases resistance by 1. A rare variety of verona.
+
+Golden Apple
+
+1
+
+300†
+
+100
+
+Permanently increases charm by 1. An apple said to be blessed by the goddess.
+
+Shoes of the Wind
+
+1
+
+†
+
+100
+
+Permanently increases movement by 1.
+
+Sacred Galewind Shoes
+
+1
+
+†
+
+-
+
+Permanently increases movement by 2.
+
+
+//////important gifts table
+
+Name
+
+Grade
+
+Description
+
+Tactics Primer
+
+★ 1
+
+A book containing the basics of tactics. It doesn't look like it's been read much.
+
+Classic Cookbook
+
+★ 1
+
+Cooking recipes said to have been used since long ago. This will probably help the head chef.
+
+Tantalizing Cookbook
+
+★ 1
+
+Cooking recipes that make you hungry just reading them. This will probably help the head chef.
+
+Illustrated Cookbook
+
+★ 1
+
+Cooking recipes said with illustrations that make it easy to follow. You feel that even you could cook with this.
+
+Small Fódlan Carp
+
+★ 2
+
+A fish caught in the fishing tournament. It is small in size.
+
+Regular Fódlan Carp
+
+★ 3
+
+A fish caught in the fishing tournament. It is roughly average in size.
+
+Large Fódlan Carp
+
+★ 4
+
+A fish caught in the fishing tournament. It is large in size.
+
+Choir Sign Up Sheet
+
+★ 5
+
+A list of students from the Black Eagle/Blue Lion/Golden Deer House who wish to participate in choir practice.
+
+Dissidents Intel
+
+★ 5
+
+Some are unsatisfied with the way the church has been doing things. Are they part of the Western Church?
+
+Elegant Tea set
+
+★ 5
+
+A tea set entrusted to you by Ferdinand. He wants you to give it to someone who appreciates tea.
+
+Investigation Note #1
+
+★ 5
+
+A summary of Hanneman's testimony. It seems others cannot use his research tools.
+
+Investigation Note #2
+
+★ 5
+
+A summary of Alois's testimony. It seems there will be increased guards around the Goddess Tower.
+
+Investigation Note #3
+
+★ 5
+
+A summary of the knight's testimony. It seems the Holy Mausoleum will be open to the public for the Rite.
+
+Investigation Note #4
+
+★ 5
+
+A summary of the priest's testimony. Apparently there aren't any valuables in the treasure vault.
+
+Investigation Note #5
+
+★ 5
+
+A summary of the knight's testimony. Apparently there are items of value in the kitchen, but nothing worth stealing.
+
+Investigation Note #6
+
+★ 5
+
+A summary of the monk's testimony. Apparently valuable tomes can be read without the need to steal them.
+
+Investigation Note #7
+
+★ 5
+
+A summary of the monk's testimony. Apparently the plants in the greenhouse hold intrinsic and personal value.
+
+Iron Welding Material
+
+★ 5
+
+Welding material required for smithing.
+
+Letter From House Leader
+
+★ 5
+
+I hear that it's your birthday, Professor. I hope you have a joyous day. Here's a gift from the house...myself included.
+
+Thieves Intel
+
+★ 5
+
+A warning for anyone heading to Conand Tower. It seems some thieves have made the tower their hideout.
+
+Enlightening Herbs
+
+★ 5
+
+Herbs for people who want to escape into the world of dreams. Will leave them feeling rested and refreshed. (Black Eagle Route only)
+
+Bravery Herbs
+
+★ 5
+
+Herbs for people who are too nervous to speak to others. Will grant them the courage to strike up a conversation. (Black Eagle Route Only)
+
+Fortifying Herbs
+
+★ 5
+
+Herbs for people who can't overcome feelings of sadness. Will help them feel at ease. (Blue Lion Route Only)
+
+Calming Herbs
+
+★ 5
+
+Herbs for people who can't help but make mistakes. Will make them a little calmer and more careful. (Blue Lion Route Only)
+
+Admiring Love Letter
+
+★ 5
+
+"You're always putting your all into your work. You're not very up-front with your feelings, but you're so adorable!"
+
+Birthing Herbs
+
+★ 5
+
+Medicinal herbs said to aid in the safe delivery of babies. They're extremely effective. Strong enough for a horse.
+
+Heartfelt Love Letter
+
+★ 5
+
+"You're so gallant, and you love your family. Your smile is just so wonderful and charming, I think I'm in love!"
+
+Reverent Love Letter
+
+★ 5
+
+"I can't help the way I feel about you! I've fallen for a high-class person that I shouldn't have fallen in love with!"
+
+Crestological Mysteries
+
+★ 5
+
+A book introducing some obscure theories about Crests. Someone with a passion for that topic might want this.
+
+Tome of Comely Saints
+
+★ 5
+
+A book filled with striking illustrations of the male saints. Someone who admires good-looking men might want this.
+
+Fire Amulet
+
+★ 5
+
+A handy charm that came from somewhere faraway. Someone from a foreign land might want this.
+
+Glowing Stone
+
+★ 5
+
+A lovely stone emitting a soft light. Someone who is gentle and calm might want this.
+
+The Path of Dawn
+
+★ 5
+
+Record of a quiet, fleeting dawn. Someone who loves nature might want this.
+
+Medicinal Eyedrops
+
+★ 5
+
+Eye drops necessary for any book lover. Someone passionate about reading might want them.
+
+Two-Toned Whetstone
+
+★ 5
+
+A black-and-white whetstone suitable for sharpening a prized weapon. Catherine and Shamir both want this.
+
+Brigid Techniques
+
+★ 5
+
+A book of traditional, time-honored woodworking techniques from the Brigid archipelago.
+
+Imperial Army Intel
+
+★ 5
+
+It seems the Imperial army has been disguising themselves as merchants and pilgrims and frequenting Garreg Mach.
+
+Cornerstone Fragment
+
+★ 5
+
+A fragment of stone that has existed since the monastery's foundation. It shows the wear of time.
+
+Zoltan's Beast Idol
+
+★ 5
+
+A valuable idol created by the master craftsman Zoltan, who was widely thought to have only made weapons.
+
+Anna's Secret Thingy
+
+★ 5
+
+The mysterious object that Anna needs to open her Secret Shop. It's too incredible to behold.
+
+Lavandula grass
+
+★ 5
+
+An herb with tiny, purple flowers. Its calming scent relieves stress.
+
+Gladiolus
+
+★ 5
+
+Flowers used as an offering for those who died in war. The flowers are colorful, but the leaves are sharp as blades.
+
+Letter from House Leader
+
+★ 5
+
+I hear that it's your birthday, Professor. I hope you have a joyous day. Here's a gift from the house...myself included./As trite as it sounds, I wish to thank you. For everything. I hope you have a lovely birthday, Professor.
+
+Letter from Flayn
+
+★ 5
+
+On behalf of all, I wish you a most joyous day of birth! I ask that you spend it in absolute tranquility.
+
+Letter from Gilbert
+
+★ 5
+
+We should all be grateful that you were born and found your way here. I mean that.
+
+The Wealth of Anna
+
+★ 5
+
+A mysterious notebook Anna gave to a girl. It doesn't seem right to flip through it...
+
+Abyss Information
+
+★ 5
+
+Information about the Abyss from Anna. It seems to be a dangerous place that regular folks tend to avoid.
+
+Saint Cethleann Shard
+
+★ 5
+
+A strange stone shard that seems to have fallen off the statue of Saint Cethleann.
+
+Saint Cichol Shard
+
+★ 5
+
+A strange stone shard that seems to have fallen off the statue of Saint Cichol.
+
+Saint Macuil Shard
+
+★ 5
+
+A strange stone shard that seems to have fallen off the statue of Saint Macuil.
+
+Saint Indech Shard
+
+★ 5
+
+A strange stone shard that seems to have fallen off the statue of Saint Indech.
+
+Huge Fódlan Carp
+
+★ 5
+
+A fish caught in the fishing tournament. It is very large in size.
+
+Teutates Herring
+
+★ 5
+
+A fish caught in the fishing tournament. Apparently it's a rare, large herring.
+
+Missing Student Poster
+
+★ 5
+
+A torn poster soliciting information on a missing student. It says the student disappeared a few nights ago.
+
+Servant's Supplies
+
+★ 5
+
+A bag filled with everything a servant would need to serve a noble. There's even a sword sticking out of it.
+
+Valerian
+
+★ 5
+
+Flowers intended to be laid on a certain grave. A bouquet of lovely, pale pink flowers in bloom.
+
+List of Rare Books
+
+★ 5
+
+A list of books thought to have been removed from the monastery library. What could they contain?
+
+Name
+
+Grade
+
+Description
+
+Floral Adornment
+
+★ 1
+
+Flowers cut short so they can be worn decoratively. Appreciated by most ladies and those who like gardening.
+
+Gemstone Beads
+
+★ 1
+
+Small, sparkling beads for sewing into fabric. Appreciated by fans of embroidery and handicraft.
+
+Fishing Float
+
+★ 1
+
+A tool that tells you when a fish is on the line. Appreciated by those who enjoy fishing.
+
+Tasty Baked Treat
+
+★ 1
+
+A baked confection made by mixing fruit into dough. Appreciated by those with a sweet tooth.
+
+Smoked Meat
+
+★ 1
+
+Meat prepared in the monastery's smoker. The type of meat is unclear, but a meat lover would appreciate it.
+
+Stylish Hair Clip
+
+★ 2
+
+A hair accessory from a popular manufacturer. Appreciated by fashionable women.
+
+Watering Can
+
+★ 2
+
+A tool used for watering plants. Appreciated by those who enjoy gardening.
+
+Dapper Handkerchief
+
+★ 2
+
+A handkerchief adorned with refined embroidery. Appreciated by fashionable men.
+
+Hunting Dagger
+
+★ 2
+
+A tool used for processing a catch after a hunt.
+Appreciated by those who enjoy hunting.
+
+
+Whetstone
+
+★ 2
+
+A stone used to sharpen the blades of swords or lances. Appreciated by those who enjoy weapon maintenance.
+
+Ancient Coin
+
+★ 3
+
+A coin said to have been used as a currency in ancient times. Appreciated by those who enjoy traveling, art, or coins.
+
+Armored Bear Stuffy
+
+★ 3
+
+A fluffy stuffed bear wearing distinguished armor. Appreciated by those who love animals or cute things.
+
+Owl Feather
+
+★ 3
+
+A feather from a messenger owl that can be used in a variety of ways. Appreciated by everyone.
+
+Riding Boots
+
+★ 3
+
+Boots specially made for mastering the equestrian arts. Appreciated by those who enjoy horseback riding
+
+Training Weights
+
+★ 3
+
+A weight that you can strap to your back to build muscle. Appreciated by those who enjoy weight training.
+
+Tea Leaves
+
+★ 3
+
+Aromatic tea leaves suited for a noble's refined taste. Appreciated by tea aficionados.
+
+Goddess Statuette
+
+★ 3
+
+A beautiful wood carving of the goddess. Appreciated by those who like art or carving, and by devout believers.
+
+Monarch Studies Book
+
+★ 3
+
+An essential text for future kings, queens, and emperors. Appreciated by those who enjoy studying government.
+
+The History of Fodlan
+
+★ 3
+
+A book detailing the history of Fódlan. Appreciated by those who enjoy studying history.
+
+Legends of Chivalry
+
+★ 3
+
+Stories of knights proving their heroism with brave deeds. Appreciated by those who like reading or admire knights.
+
+Arithmetic Textbook
+
+★ 3
+
+A textbook for studying arithmetic with everyday examples of its use. Appreciated by those who enjoy studying.
+
+Book of Sheet Music
+
+★ 3
+
+An old collection of sheet music filled with hymns and pastoral songs. Appreciated by those who enjoy music.
+
+Lavender
+
+★ 3
+
+Grown all across Fódlan. Appreciated by those who like flowers.
+
+Violet
+
+★ 3
+
+Grown all across Fódlan. Appreciated by those who like flowers.
+
+Sunflower
+
+★ 3
+
+Grown all across Fódlan. Appreciated by those who like flowers.
+
+Forget-me-nots
+
+★ 3
+
+Grown all across Fódlan. Appreciated by those who like flowers.
+
+Lily of the Valley
+
+★ 3
+
+Grown all across Fódlan. Appreciated by those who like flowers.
+
+Baby's Breath
+
+★ 3
+
+Grown all across Fódlan. Appreciated by those who like flowers.
+
+Anemone
+
+★ 3
+
+Grown all across Fódlan. Appreciated by those who like flowers.
+
+Rose
+
+★ 3
+
+Grown sometimes in Fódlan. Appreciated by those who like flowers.
+
+Daffodil
+
+★ 3
+
+Grown sometimes in Fódlan. Appreciated by those who like flowers.
+
+Lily
+
+★ 3
+
+Grown sometimes in Fódlan. Appreciated by those who like flowers.
+
+Carnation
+
+★ 3
+
+Grown sometimes in Fódlan. Appreciated by those who like flowers.
+
+Pitcher Plant
+
+★ 3
+
+A rare plant seen south of Fódlan. Appreciated by those who like flowers.
+
+Board Game
+
+★ 4
+
+A fun activity in which players compete using stones on a board. Appreciated by those who enjoy tactical thinking.
+
+Landscape Painting
+
+★ 4
+
+A landscape painting of magnificent Lake Teutates in the clearing fog. Appreciated by those who enjoy nature or art.
+
+Ceremonial Sword
+
+★ 4
+
+A beautiful ceremonial sword with a mangled blade. Appreciated by weapon collectors.
+
+Book of Crest Designs
+
+★ 4
+
+A book containing the designs of 21 identified Crests. Appreciated by those who enjoy studying Crests.
+
+Blue Cheese
+
+★ 4
+
+A pungent cheese with a very distinctive tase. Appreciated by lovers of food and drink.
+
+Exotic Spices
+
+★ 4
+
+Spices from a land to the east of Almyra. Appreciated by those who enjoy traveling or cooking.
+
+Coffee Beans
+
+★ 4
+
+Beans meant to be ground and boiled into a hot beverage. Appreciated by those who enjoy bitter flavors.
+
+
+//////lost items table
+Name
+
+Description
+
+Owner
+
+A Treatise on Etiquette
+
+A book detailing the etiquette of high society. It probably belongs to someone who is acutely aware of their nobility.
+
+Lorenz
+
+Agricultural Survey
+
+An old paper with writings about harvesting and taxation. It probably belongs to a young noble who owns territory.
+
+Ferdinand
+
+Animal Bone Dice
+
+Cubic dice made from animal bones. They probably belong to someone who enjoys weird games.
+
+Shamir
+
+Animated Bait
+
+Fishing bait that has been magically animated. It probably belongs to an experienced magic user who loves fishing.
+
+Linhardt
+
+Annotated Dictionary
+
+A dictionary of a foreign language' with translations. It probably belongs to someone from afar.
+
+Petra
+
+Antique Clasp
+
+An expensive-looking clasp with an outdated design. It probably belongs to someone who is not up on trends.
+
+Flayn
+
+Armor Clasp
+
+A clasp used to connect various pieces of armor. It probably belongs to someone who favors black armor.
+
+Jeritza
+
+Art Book
+
+A book about art movements in Fódlan over the centuries. It probably belongs to someone who is interested in art.
+
+Ignatz
+
+Artificial Flower
+
+Bright red cloth formed into the shape of a rose. It probably belongs to someone who wears flashy clothes.
+
+Lorenz
+
+Badge of Graduation
+
+A badge awarded for graduation from the Garreg Mach Officers Academy. It probably belongs to a graduate.
+
+Catherine
+
+Bag of Seeds
+
+A bag containing seeds that birds and mice would eat. It probably belongs to someone who cares for animals.
+
+Marianne
+
+Bag of Tea Leaves
+
+A small bag containing a mixed variety of tea leaves. It probably belongs to someone who is interested in tea.
+
+Ferdinand
+
+Balance Scale
+
+A precious tool used for measuing the weight of objects. It probably belongs to someone in need of accuracy.
+
+Anna
+
+Basket of Berries
+
+A basket heaped with wild berries. It probably belongs to someone who is nostalgic for the flavors of the forest.
+
+Hapi
+
+Big Spoon
+
+A spoon big enough to ladle out a person's entire portion with one scoop. It probably belongs to a big eater.
+
+Raphael
+
+Black Hair Tie
+
+A thick string used to control unruly hair. It probably belongs to someone who ties their hair back.
+
+Jeritza
+
+Black Iron Spur
+
+An item awarded during Kingdom knighting ceremonies. It probably belongs to someone closely related to a knight.
+
+Felix
+
+Black Leather Gloves
+
+High-quality leather gloves for wearing under gauntlets. They probably belong to someone picky about armor.
+
+Dimitri
+
+Blue Stone
+
+A rare blue stone that could be ground into a pigment. It probably belongs to someone who likes to paint.
+
+Ignatz
+
+Board Game Piece
+
+A high-quality board game piece, make of precious stone. It probably belongs to someone with a tactical mind.
+
+Claude
+
+Book of Ghost Stories
+
+A collection of terrifying tales from all over Fódlan. It probably belongs to someone who likes ghost stories.
+
+Mercedes
+
+Bundle of Dry Hemp
+
+A bundle of hemp that can be used to make bowstrings. It probably belongs to someone who is skilled with a bow.
+
+Shamir
+
+Bundle of Herbs
+
+A bundle of inexpensive herbs used in cooking. It probably belongs to someone who knows a lot about plants.
+
+Ashe
+
+Burlap Sack of Rocks
+
+A heavy sack filled to the brim with rocks. It probably belongs to someone who likes training their muscles.
+
+Raphael
+
+Carving Hammer
+
+A carving hammer used to strike a chisel. It probably belongs to someone who is interested in woodcarving.
+
+Gilbert
+
+Centipede Picture
+
+A sketch of a centipede with countless little holes in it. It probably belongs to someone who hates insects.
+
+Shamir
+
+Clean Dusting Cloth
+
+An unsoiled dusting cloth that has clearly never been used. It probably belongs to someone who hates cleaning.
+
+Manuela
+
+Confessional Letter
+
+A letter confessing offenses to the goddess. It probably belongs to someone who feels deeply repentant.
+
+Marianne
+
+Crude Arrowheads
+
+Rough-hewn arrowheads fashioned from rocks. They probably belong to someone who favors the bow.
+
+Leonie
+
+Crumpled Love Letter
+
+A carelessly discarded love letter. It probably belongs to someone with a complicated love life.
+
+Sylvain
+
+Curry Comb
+
+A comb decorated with pegasi, used for grooming horses. It probably belongs to someone who cares for horses.
+
+Ingrid
+
+Dulled Longsword
+
+A worn iron longsword that feels quite heavy. It seems like something Dimitri would own.
+
+Dimitri
+
+Dusty Book of Fables
+
+A well-loved book of children's fables. It probably belongs to someone who has fond memories associated with it.
+
+Flayn
+
+Eastern Porcelain
+
+A gift container said to have been made in the far east. It probably belongs to a person of high class.
+
+Edelgard
+
+Elegant Hair Clip
+
+An elegant white hair clip, likely belonging to someone with grace. A lovely gift for most anyone.
+
+Rhea
+
+Encyclopedia of Sweets
+
+A book describing sweet treats from all across Fódlan. It probably belongs to someone who adores sweets.
+
+Lysithea
+
+Evil-Repelling Amulet
+
+An amulet imbued with holy magic that wards off evil. It probably belongs to someone who is afraid of ghosts.
+
+Ashe
+
+Exotic Feather
+
+A decorative feather from a rare bird found in Brigid. It probably belongs to someone who used to live there.
+
+Petra
+
+Faded Star Chart
+
+A star chart that was created by the church. It probably belongs to someone who knows a lot about stars.
+
+Rhea
+
+Feather Pillow
+
+A pillow stuffed with soft bird feathers. It probably belongs to someone who is picky about their bedding.
+
+Linhardt
+
+Folding Razor
+
+A meticulously sharpened straight-blade razor. It probably belongs to a gentleman who prefers a close shave.
+
+Hubert
+
+Foreign Gold Coin
+
+An unusual gold coin engraved with mysterious letters. It probably belongs to someone who likes collecting coins.
+
+Alois
+
+Fruit Preserves
+
+Bottled fruit preserved in sugar. It probably belongs to someone who enjoys baking or eating sweets.
+
+Mercedes
+
+Fur Scarf
+
+A wolf pelt sewn into the shape of a scarf. It probably belongs to someone affiliated with a village of hunters.
+
+Leonie
+
+Gardening Shears
+
+A pair of shears specially designed for pruning plants. They probably belong to someone who gardens as a hobby.
+
+Dedue
+
+Gold Earring
+
+An earring featuring traditional Duscur designs. It probably belongs to someone from the Duscur region.
+
+Dedue
+
+Grounding Charm
+
+A charm said to prevent lightning from striking nearby. It probably belongs to someone who is afraid of lightning.
+
+Caspar
+
+Hammer and Chisel
+
+A sturdy wooden hammer and metal chisel. They probably belong to someone who frequently conducts research.
+
+Hanneman
+
+Hand Drawn Map
+
+A practical map of the forest made by Jeralt. It probably belongs to someone who has known Jeralt for a long time.
+
+Leonie
+
+Handmade Hair Clip
+
+A cute, but incomplete, hair accessory. It probably belongs to someone who is good at making accessories.
+
+Hilda
+
+Hedgehog Case
+
+An accessory case embroided with a cute hedgehog. It probably belongs to a female noble.
+
+Bernadetta
+
+How to Bake Sweets
+
+A note about how to make simple baked sweets. It probably belongs to someone who enjoys baking.
+
+Mercedes
+
+How to be Tidy
+
+A book containing tips for keeping things tidy. It probably belongs to someone who has a hard time cleaning.
+
+Marianne
+
+Hresvelg Treatise
+
+A treatise compiled during the life of Emperor Wilhelm. It probably belongs to a proponent of devious tactics.
+
+Hubert
+
+Introduction to Magic
+
+A simple and easy to understand textbook on magic. It probably belongs to someone who is not good at magic.
+
+Alois
+
+Iron Cooking Pot
+
+A durable iron pot showing no signs of use. It probably belongs to someone who is picky about cooking utensils.
+
+Dedue
+
+Jar of Sweets
+
+A jar filled with sweets. It probably belongs to someone with a sweet tooth.
+
+Jeritza
+
+Jousting Almanac
+
+A record of jousting matches held in Faerghus. It probably belongs to someone who looks up to knights.
+
+Ingrid
+
+Leather Bow Sheath
+
+A leather bow sheath engraved with an unfamiliar script. It seems like something Claude would own.
+
+Claude
+
+Lens Cloth
+
+A clean white cloth decorated with fine embroidery. It probably belongs to someone who wears glasses.
+
+Hanneman
+
+Letter to Rhea
+
+A letter that seems to be written to Rhea. It probably belongs to someone with a deep connection to Rhea.
+
+Catherine
+
+Letter to the Goddess
+
+An impassioned letter written to the goddess. It probably belongs to someone who daydreams about the goddess.
+
+Ignatz
+
+Light Purple Veil
+
+A headscarf that has been dyed purple. It probably belongs to someone who likes fashion.
+
+Manuela
+
+Lovely Comb
+
+A beautiful red comb made from tortoiseshell. It probably belongs to someone who takes care of their long hair.
+
+Dorothea
+
+Maintenance Oil
+
+A jar containing oil for weapon maintenance. It probably belongs to someone who collects weapons.
+
+Ferdinand
+
+Makeup brush
+
+A thin brush for applying makeup around the eyes. It probably belongs to someone who wears eyeshadow.
+
+Yuri
+
+Mild Stomach Poison
+
+A small bottle labeled "Mild Stomach Poison" that seems fairly harmless. It probably belongs to a schemer.
+
+Claude
+
+Moon Knight's Tale
+
+A story recorded during the Crescent Moon War. It probably belongs to someone who reads tales of chivalry.
+
+Ashe
+
+Mysterious Notebook
+
+A notebook full of cheesy jokes and bad puns. It probably belongs to someone who likes telling jokes.
+
+Alois
+
+Needle and Thread
+
+A needle and a spool of thread. They probably belong to someone who hides away doing needlework.
+
+Bernadetta
+
+New Bottle of Perfume
+
+An unopened bottle containing fancy perfume. It probably belongs to someone who doesn't often wear perfume.
+
+Lysithea
+
+Noseless Puppet
+
+An exquisitely crafted, but incomplete, wooden puppet. It probably belongs to someone who enjoys woodcarving.
+
+Gilbert
+
+Noxious Handkerchief
+
+A handkerchief soaked in a strange chemical. It probably belongs to someone who is callous in their methods.
+
+Hubert
+
+Old Cleaning Cloth
+
+An old cleaning cloth with a Crest-like design. It probably belongs to someone who worked for a noble house.
+
+Cyril
+
+Old Fishing Rod
+
+A well-used fishing rod with no hook. It probably belongs to a fisher who doesn't care about how much they catch.
+
+Seteth
+
+Old Map of Enbarr
+
+An old map of Enbarr. It probably belongs to someone with a connection to the Imperial capital of the past.
+
+Flayn
+
+Pegasus Horseshoes
+
+Special horseshoes commonly used by Pegasus Knights. They probably belong to someone who values chivalry.
+
+Ingrid
+
+Portrait of Rhea
+
+A portrait of Rhea made for a believer. It probably belongs to someone with an emotional attachment to Rhea.
+
+Cyril
+
+Princess Doll
+
+A doll that was hidden in a leather bag for magic tools. It probably belongs to someone who secretly loves dolls.
+
+Lysithea
+
+Rare Item Index
+
+A list of rare items in Fódlan. It probably belongs to someone with a deep interest in rare things...
+
+Anna
+
+Repellent Powder
+
+A powder derived from insect-repellent flowers. It probably belongs to someone who hates bugs.
+
+Constance
+
+School of Sorcery Book
+
+A textbook from the Kingdom's School of Sorcery. It probably belongs to someone who went to that school.
+
+Annette
+
+Secret Ledger
+
+Countless numbers are listed in this ledger. It probably belongs to someone deeply involved in commerce.
+
+Anna
+
+Seiros Scriptures
+
+A book of old scriptures engraved with the Crest of Seiros It probably belongs to someone affiliated with the church.
+
+Rhea
+
+Shiny Striated Pebble
+
+A small stone streaked with colorful lines. It probably belongs to someone who likes collecting pebbles.
+
+Hapi
+
+Silk Handkercheif
+
+A fine white silk handkerchief. It probably belongs to a noble who cares about their personal grooming.
+
+Lorenz
+
+Silver Necklace
+
+A silver necklace engraved with the Crest of Seiros. It probably belongs to a devout believer.
+
+Gilbert
+
+Silver Brooch
+
+A broach depicting the Mittlefrank Opera Company logo. It probably belongs to someone involved with the opera.
+
+Dorothea
+
+Sketch of a Sigil
+
+A drawing of a circle used to activate magic. It probably belongs to someone interested in magic and Crests.
+
+Hanneman
+
+Small Tanned Hide
+
+A small animal's hide which has been meticulously tanned. It probably belongs to a skilled hunter.
+
+Petra
+
+Snapped Writing Quill
+
+A writing quill that has snapped from overuse. It probably belongs to someone who does lots of paperwork.
+
+Seteth
+
+Songstress Poster
+
+A poster promoting Manuela, the "Miracle Songstress." It probably belongs to someone who looks up to her.
+
+Dorothea
+
+Spotless Bandage
+
+A bandage that is clean depite being used. It probably belongs to someone who was slacking on their training.
+
+Hilda
+
+Stiff Hand Wrap
+
+A hand bandage splotched with blood, as though used in a fist fight. It probably belongs to a seasoned brawler.
+
+Balthus
+
+Still-Life Picture
+
+A still-life painting that features an unusual flower. It probably belongs to someone who is fond of art.
+
+Bernadetta
+
+Suspicious Dice
+
+Dice that always produce the same results when thrown. They probably belong to a skilled swindler.
+
+Yuri
+
+Sword Belt Fragment
+
+A metal piece from a sword belt that broke due to wear. It probably belongs to someone who is devoted to training.
+
+Felix
+
+Tattered Overcoat
+
+An overcoat with many holes and tears. It probably belongs to someone who often finds themselves in fights.
+
+Caspar
+
+The History of Sreng
+
+A book recording the history of the Sreng people. It probably belongs to someone who has ties to Sreng.
+
+Sylvain
+
+The Saints Revealed
+
+An unofficial account of the Four Saints' deeds during the War of Heroes. It probably belongs to a history buff.
+
+Linhardt
+
+Thunderbrand Replica
+
+A training sword modeled after Thunderbrand. It probably belongs to someone who is enthusiastic about training.
+
+Caspar
+
+Time-worn Quill Pen
+
+Writing utensil adorned with a beautiful black feather. It probably belongs to someone who often writes letters.
+
+Edelgard
+
+Toothed Dagger
+
+A uniquely shaped dagger, the back of which is toothed. It probably belongs to someone who likes rare weapons.
+
+Felix
+
+Training Logbook
+
+A detailed record of someone's combat training. It probably belongs to someone who trains relentlessly.
+
+Dimitri
+
+Unfinished Fable
+
+A children's fable that ends partway through. It probably belongs to someone who likes writing stories.
+
+Seteth
+
+Unfinished Score
+
+Score music with unusual lyrics written in by hand. It probably belongs to someone who likes to sing.
+
+Annette
+
+Unused Lipstick
+
+Lipstick that would make an ideal gift for a young lady. It probably belongs to someone who likes wooing women.
+
+Sylvain
+
+Used Bottle of Perfume
+
+A bottle containing a rare perfume. It probably belongs to someone who is particular about fashion.
+
+Hilda
+
+Wax Dipthych
+
+A wax diptych that has been thoroughly used. It probably belongs to someone who is zealous about studying.
+
+Annette
+
+Weathered Cloak
+
+A thick, but rather worn-out cloak. It probably belongs to someone who battles enemies outdoors.
+
+Catherine
+
+White Glove
+
+A pure white glove sewn from high-quality material. It seems like something that Edelgard would own.
+
+Edelgard
+
+Wellness Herbs
+
+Herbs that aid with persistent headaches. They probably belong to an adult with a taste for liquor.
+
+Manuela
+
+Well-Used Hatchet
+
+A hatchet with a wide variety of potential uses. It probably belongs to someone who frequently works outside.
+
+Cyril
+
+Well-Worn Hammock
+
+A Dadgan cot for sleeping outside. It probably belongs to someone with a history of roaming from place to place.
+
+Balthus
+
+Wooden Button
+
+A button that seems to have popped off a man's shirt. It probably belongs to someone with a large physique.
+
+Raphael
+
+Wooden Flask
+
+A flask that gives off a strong alcoholic smell when opened. You seem to recall Jeralt keeping it on his person.
+
+Jeralt
+
+Nimbus Charm
+
+A cursed charm said to summon clouds. Its efficacy is dubious. Likely belongs to someone who avoids sunlight.
+
+Constance
+
+///////bait table
+Name
+
+Price
+
+Grade
+
+Description
+
+Flayn's Bait
+
+0
+
+★ 1
+
+Bait given to you by Flayn to catch your first fish! Try it out at the fishing pond.
+
+Insect Larva
+
+2
+
+★ 1
+
+All-purpose bait that often attracts everyday fish.
+
+Pond Snail
+
+4
+
+★ 2
+
+Freshwater snail that occasionally attracts uncommon fish.
+
+Earthworm
+
+6
+
+★ 3
+
+A wriggling bait, optimal for catching uncommon fish.
+
+Blowfly
+
+8
+
+★ 4
+
+A favorable bait that is optimal for hooking extremely rare fish.
+
+Herring Bait
+
+10
+
+★ 5
+
+Live small fish bait that attracts extremely rare fish.
+
+
+//////seeds table
+Name
+
+Price
+
+Grade
+
+Description
+
+Dedue's Seeds
+
+0
+
+★ 1
+
+Seeds given to you by Dedue to grow a vegetable for him. Try planting them in the greenhouse.
+
+Mixed Fruit Seeds
+
+10
+
+★ 1
+
+A mixture of various seeds. It's a mystery what they are until they've fully sprouted!
+
+Mixed Herb Seeds
+
+10
+
+★ 1
+
+A handful of mixed herbal seeds. Plant them in the greenhouse to see what becomes of them!
+
+Root Vegetable Seeds
+
+10
+
+★ 1
+
+A sprinkling of mixed root vegetable seeds. You won't know which types until you plant them.
+
+Vegetable Seeds
+
+10
+
+★ 1
+
+Mixed vegetable seeds. Results may vary.
+
+Western Fódlan Seeds
+
+10
+
+★ 1
+
+Mixed seeds foraged from the western region of Fódlan.
+
+Eastern Fódlan Seeds
+
+20
+
+★ 2
+
+These mixed seeds have been gathered from the eastern regions of Fódlan.
+
+Albinean Seeds
+
+20
+
+★ 2
+
+A mixture of seeds that have been foraged from Albinea.
+
+Morfis Seeds
+
+20
+
+★ 2
+
+Mixed seeds foraged from Morfis.
+
+Northern Fódlan Seeds
+
+20
+
+★ 2
+
+Mixed seeds foraged from the northern region of Fódlan.
+
+Southern Fódlan Seeds
+
+20
+
+★ 2
+
+Mixed seeds foraged from the southern region of Fódlan.
+
+Blue Flower Seeds
+
+60
+
+★ 3
+
+A palmful of seeds that will grow bright blue flowers.
+
+Pale-Blue Flower Seeds
+
+60
+
+★ 3
+
+These seeds yield brillient, aqua flowers.
+
+Purple Flower Seeds
+
+60
+
+★ 3
+
+These seeds yield deep purple flowers.
+
+Red Flower Seeds
+
+60
+
+★ 3
+
+Rich red flowers sprout from these seeds when planted.
+
+Green Flower Seeds
+
+60
+
+★ 3
+
+Seeds that grow earthy green flowers.
+
+Yellow Flower Seeds
+
+60
+
+★ 3
+
+A handful of seeds that grow vibrant yellow flowers.
+
+White Flower Seeds
+
+60
+
+★ 3
+
+Bright white flowers will grow from these seeds.
+
+Morfis-Plum Seeds
+
+40
+
+★ 4
+
+Seeds derived from Morfis plums. Planting them will yield Morfis plums.
+
+Nordsalat Seeds
+
+40
+
+★ 4
+
+Seeds derived from nordsalat. Planting them will yield nordsalat.
+
+Angelica Seeds
+
+50
+
+★ 5
+
+Hand-selected seeds taken from the angelica plant. Plant these to grow more angelica.
+
+Boa-Fruit Seeds
+
+50
+
+★ 5
+
+Seeds derived from boa fruit. Planting them will yield boa fruit.
+
+
+//////ores table
+Name
+
+Price
+
+Grade
+
+Description
+
+Smithing Stone
+
+20
+
+★ 1
+
+A basic smithing material. Can be used to repair broken weapons.
+
+Black-Sand Steel
+
+60
+
+★ 2
+
+A smithing material that strengthens a weapon's critical attack.
+
+Arcane Crystal
+
+100
+
+★ 3
+
+A smithing material that glows with magical light.
+
+Agarthium
+
+300
+
+★ 4
+
+A smithing material refined using archaic methods.
+
+Wootz Steel
+
+200
+
+★ 4
+
+A smithing material that is both light and durable.
+
+Mythril
+
+400
+
+★ 5
+
+A smithing material blessed with holy might.
+
+Umbral Steel
+
+600
+
+★ 5
+
+A smithing material steeped in the power of darkness.
+
+Venomstone
+
+200
+
+★ 5
+
+A highly toxic smithing material that should be handled with great care.
+
+
+//////fish table
+Name
+
+Price
+
+Grade
+
+Description
+
+Carassius
+
+0
+
+★ 1
+
+This small fish is common to all regions of Fódlan. It is somehow connected to Saint Cethleann.
+
+Airmid Goby
+
+1
+
+★ 1
+
+A small fish found throughout the waters of Fódlan. These fish can be eaten but aren't particularly tasty...
+
+Caledonian Crayfish
+
+1
+
+★ 1
+
+A hard-shelled crayfish that hides beneath pebbles in rapid water. Can be used when you share a meal.
+
+Albinean Herring
+
+10
+
+★ 2
+
+An intense swimmer who migrates over vast distances near the coast of Albinea. Can be used when you share a meal.
+
+Teutates Loach
+
+10
+
+★ 2
+
+A stately bearded fish from Lake Teutates. Can be used when you share a meal.
+
+White Trout
+
+10
+
+★ 2
+
+A stark white fish that gleams in sunlight. Can be used when you share a meal.
+
+Airmid Pike
+
+20
+
+★ 3
+
+This fish is commonly found in the Airmid River. Can be used when you share a meal.
+
+Caledonian Gar
+
+20
+
+★ 3
+
+This fish has very hard scales, signifying its origins on the Caledonian Plateau. Can be used when you share a meal.
+
+Silverfish
+
+200
+
+★ 3
+
+A somewhat costly fish that glimmers like polished silver.
+
+Golden Fish
+
+500
+
+★ 4
+
+Glittering gold, this fish boasts a high cost.
+
+Queen Loach
+
+30
+
+★ 4
+
+A beautiful specimen, even among Teutates loaches. Cook into a dish to boost dexterity.
+
+Teutates Pike
+
+50
+
+★ 4
+
+This fish is a cross between loaches and pikes spawned in Lake Teutates. Cook into a dish that boosts defense.
+
+Bullhead
+
+100
+
+★ 5
+
+This fish has a hard head that is used for defending itself against predators. Cook into a dish that boosts speed.
+
+Platinum Fish
+
+1,000
+
+★ 5
+
+This pricey fish shines like pure white silver.
+
+Fódlandy
+
+2000
+
+★ 5
+
+Challenging to ensnare, this ancient fish has swum in the waters of Fódlan for countless generations.
+
+Goddess Messenger
+
+1,500
+
+★ 5
+
+Appears only when the water shines with spectral light... Cook into a dish that boosts dexterity, speed, and defense.
+//////////produce table
+Name
+
+Price
+
+Grade
+
+Description
+
+Dried Vegetables
+
+1
+
+★ 1
+
+Parched vegetables that are no longer useful for cooking.
+
+Weeds
+
+1
+
+★ 1
+
+Common weeds. Not much to look at, and not of much use either.
+
+Zanado Fruit
+
+1
+
+★ 1
+
+A simple fruit found in Zanado that is ill tasting and inedible.
+
+Cabbage
+
+5
+
+★ 2
+
+Cabbage of Fódlan that is enjoyed in a number of dishes. Can be used when you share a meal.
+
+Carrot
+
+5
+
+★ 2
+
+A simple carrot grown in Fódlan that adds texture to any recipe. Can be used when you share a meal.
+
+Chickpeas
+
+5
+
+★ 2
+
+Chickpeas harvested throughout Fódlan. Can be used when you share a meal.
+
+Noa Fruit
+
+5
+
+★ 2
+
+A fruit named after Saint Noa. It takes a skilled hand to extract the pulp. Can be used when you share a meal.
+
+Onion
+
+5
+
+★ 2
+
+A Fódlan onion—a staple in many dishes. Can be used when you share a meal.
+
+Tomato
+
+5
+
+★ 2
+
+A rare vegetable from Dagda that requires delicate conditions to thrive. Can be used when you share a meal.
+
+Turnip
+
+5
+
+★ 2
+
+A Fódlan turnip. Tasty and earthy. Can be used when you share a meal.
+
+Albinean Berries
+
+10
+
+★ 3
+
+Simple Albinean berries that are tart with a hint of sweetness. Can be used when you share a meal.
+
+Peach Currant
+
+10
+
+★ 3
+
+Sweet peach currants. Can be used when you share a meal.
+
+Verona
+
+10
+
+★ 3
+
+Blessed by the goddess herself, this vegetable is as tasty as it is beautiful. Can be used when you share a meal.
+
+Magdred Kirsch
+
+100
+
+★ 4
+
+A shimmering fruit, warm and glowing with Magdred magics. Can be cooked into a dish.
+
+Morfis Plum
+
+100
+
+★ 4
+
+It is said that mages of old infused these plums with their spells. Cook into a dish that boosts luck.
+
+Nordsalat
+
+100
+
+★ 4
+
+A magical vegetable that grows in frigid, unyielding environments. Cook into a dish that boosts charm.
+
+Ailell Grass
+
+500
+
+★ 5
+
+This rare fiery-colored grass thrives in the harsh environs of Ailell and is sold for a high price.
+
+Angelica
+
+200
+
+★ 5
+
+This unearthly vegetable is purportedly grown from the blood of fallen heroes. Cook into a dish that boosts magic.
+
+Boa Fruit
+
+200
+
+★ 5
+
+Serpentine scales of this fruit protect the delectable pulp nestled within. Cook into a dish that boosts resistance.
+
+Zanado Treasure Fruit
+
+1000
+
+★ 5
+
+A prized fruit as red as blood that grows in Zanado. Cook into a dish that boosts magic and resistance.
+/////////////meat table
+Name
+
+Price
+
+Grade
+
+Description
+
+Poultry
+
+50
+
+★ 2
+
+Meat from birds hunted in the hills. Can be used when you share a meal.
+
+Wild Game
+
+100
+
+★ 3
+
+Meat from beasts hunted in the hills. Can be used when you share a meal.
+
+Duscur Bear
+
+200
+
+★ 4
+
+Meat from rare bears of Duscur with a dense flavor profile. Cook into a dish that raises a unit's max HP.
+
+Oghma Wolverine
+
+500
+
+★ 5
+
+This meat is taken from fleet-footed beasts found in the Oghma Mountains. Cook into a dish that boosts strength.
+
+Albinean Moose
+
+1000
+
+★ 5
+
+Albinean moose meat—highly prized in Fódlan and rare to find. Cook into a dish that raises max HP and strength.
+///////////tea table
+Name
+
+Price
+
+Grade
+
+Description
+
+Tea of the Saints
+
+10
+
+★ 2
+
+Even commoners have tried this cost-efficient tea, which is a mixture of herbs. It's a tad bitter.
+
+Sweet-Apple Blend
+
+100
+
+★ 2
+
+A tea blended with two types of apple peels. Elegant and sweet, it is popular among common folk and nobles alike.
+
+Albinean Berry Blend
+
+100
+
+★ 2
+
+Dried Albinean berries give this black tea its fragrance. The sweet, relaxing scent is popular among many.
+
+Southern Fruit Blend
+
+100
+
+★ 2
+
+A blend with a unique dried fruit from the south. Popular for its intoxicatingly strong, bright notes.
+
+Mint Leaves
+
+100
+
+★ 2
+
+An invigorating mint blend that revitalizes and refreshes all who partake.
+
+Almond Blend
+
+100
+
+★ 2
+
+A refined, nutty tea that is blended with leaves and thinly sliced almonds.
+
+Ginger Tea
+
+100
+
+★ 2
+
+The sharp spiciness of ginger laces the body of this tea, unforgettable and brightening.
+
+Angelica Tea
+
+100
+
+★ 2
+
+A cleansing herbal tea blended with angelica.
+
+Almyran Pine Needles
+
+200
+
+★ 3
+
+This tea is comprised of oxidized pine needles from eastern Almyra, giving it a distinct, earthy tone.
+
+Crescent-Moon Tea
+
+200
+
+★ 3
+
+Fermented dried seeds blended with tea leaves. It has a soft and subtle flavor, akin to the gentle light of the moon.
+
+Honeyed-Fruit Blend
+
+200
+
+★ 3
+
+A candied blend made up of dried, honeyed fruits. For anyone with a sweet tooth, this tea can't be beat.
+
+Lavender Blend
+
+200
+
+★ 3
+
+Tiny dried purple lavandula flowers are sprinkled into this refreshing floral tea.
+
+Chamomile
+
+200
+
+★ 3
+
+A stark white floral tea with bright notes, this blend calms nerves and heightens concentration.
+
+Bergamot
+
+300
+
+★ 4
+
+The bright notes of this tea stem from an infusion of citrus oils. This blend is highly favored by nobility.
+
+Cinnamon Blend
+
+300
+
+★ 4
+
+An aromatic bark blend referred to as the king of spices. Its unique taste appeals to similarly unique people.
+
+Dagda Fruit Blend
+
+300
+
+★ 4
+
+A stark, bitter fruit from Dagda makes this black tea particularly pungent. Connoisseurs enjoy its unique flavor.
+
+Rose Petal Blend
+
+300
+
+★ 4
+
+Black tea laced with rose petals. A classic floral blend often enjoyed among Kingdom and Alliance nobles.
+
+Seiros Tea
+
+300
+
+★ 4
+
+A black tea common to the south of Almyra, it is fairly basic in its flavors. This is its common name in Fódlan.
+
+Four-Spice Blend
+
+300
+
+★ 4
+
+A novelty tea blended with four unique spices inspired by the Four Saints. Enjoyment requires a mature palate.
+
+Hresvelg Blend
+
+400
+
+★ 5
+
+A high-quality blend of leaves procured specially for House Hresvelg. Its refined flavor brings sheer bliss.
+
+Leicester Cortania
+
+400
+
+★ 5
+
+A specialty tea from the Alliance blended with a variety of leaves from the east. This tea is of the utmost quality.
