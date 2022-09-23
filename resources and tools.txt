@@ -16,3 +16,4 @@ fe3h.com: https://fe3h.com/
 kurokairaku's battle model rips: https://drive.google.com/drive/folders/175WY_338yYGJFU5-cCbtLMAEtMocFhkP
 Emkat's Portrait Repo: https://drive.google.com/drive/u/0/folders/17GCGqhMtlEgd-UmOpN2Fe50J7KC6AOe-
 Fire Emblem 8 (Literally) + Build Tools: https://github.com/FireEmblemUniverse/fireemblem8u
+someone123's text extraction javascript: https://replit.com/join/mlozhoxeem-cookiecaptain
