@@ -1,0 +1,1895 @@
+extracted by someone123#6741
+
+
+Weapon
+
+Art
+
+Skill Level
+
+Dur Cost
+
+Mt
+
+Hit
+
+Avo
+
+Crit
+
+Range
+
+Effect
+
+Characters
+
+Sword
+
+Wrath Strike
+
+D
+
+-3
+
++5
+
++10
+
+
+
+
+
+1
+
+
+
+All
+
+Grounder
+
+C
+
+-4
+
++3
+
++20
+
+
+
++5
+
+1
+
+Effective against Flying enemies
+
+All
+
+Bane of Monsters
+
+C+
+
+-4
+
++6
+
+
+
+
+
++10
+
+1
+
+Effective against Monsters
+
+Byleth, Petra, Claude, Catherine, Balthus
+
+Haze Slice
+
+C+
+
+-5
+
++2
+
+
+
++30
+
+
+
+1
+
+
+
+Edelgard, Ignatz, Seteth, Jeritza
+
+Hexblade
+
+C+/A
+
+-3
+
++7
+
++10
+
+
+
+
+
+1
+
+Deals magic-based damage
+
+Edelgard, Dorothea, Ingrid, Manuela, Anna, Constance
+
+Sunder
+
+C+
+
+-3
+
++4
+
+
+
+
+
++15
+
+1
+
+
+
+Ferdinand, Dimitri, Felix
+
+Soulblade
+
+C+
+
+-4
+
++2
+
++10
+
+
+
+
+
+1
+
+Deals magic-based damage, Might increases based on user's Resistance
+
+Marianne, Anna, Constance
+
+Windsweep
+
+C+/A
+
+-5
+
++3
+
++20
+
+
+
++10
+
+1
+
+Prevents enemy counterattack
+
+Byleth, Dimitri, Jeritza, Yuri
+
+Finesse Blade
+
+A
+
+-4
+
++2
+
+
+
++10
+
+
+
+1
+
+Might increases based on user's Dexterity
+
+Petra, Felix, Claude, Catherine, Yuri
+
+Lance
+
+Tempest Lance
+
+D
+
+-5
+
++8
+
++10
+
+
+
+
+
+1
+
+
+
+All
+
+Knightkneeler
+
+C
+
+-4
+
++5
+
++15
+
+
+
+
+
+1
+
+Effective against Cavalry enemies
+
+All
+
+Shatter Slash
+
+C+
+
+-3
+
++4
+
++10
+
+
+
+
+
+1
+
+After combat, inflicts Def -5 on foe for 1 turn.
+
+Ferdinand, Hilda, Gilbert, Jeritza
+
+Vengeance
+
+C+
+
+-4
+
++2
+
+
+
+
+
++10
+
+1
+
+Damage increases in relation to the user’s missing HP.
+
+Bernadetta, Dedue, Cyril
+
+Monster Piercer
+
+C+
+
+-4
+
++7
+
+
+
+
+
+
+
+1
+
+Effective against Monsters
+
+Dimitri, Sylvain, Leonie, Seteth
+
+Hit and Run
+
+C+
+
+-4
+
++4
+
++10
+
++20
+
+
+
+1
+
+After combat, user moves 1 space backwards.
+
+Ingrid, Flayn, Shamir
+
+Frozen Lance
+
+C+/A
+
+-4
+
++3
+
++5
+
+
+
+
+
+1
+
+Deals magic-based damage. Might increases based on user’s Dexterity.
+
+Ingrid, Lorenz, Flayn
+
+Swift Strikes
+
+A
+
+-4
+
++2
+
+
+
+
+
+
+
+1
+
+Triggers 2 consecutive hits.
+
+Ferdinand, Sylvain, Seteth
+
+Glowing Ember
+
+A
+
+-4
+
++2
+
+
+
++10
+
+
+
+1
+
+Might increases based on user’s Defense.
+
+Dimitri, Gilbert, Jeritza
+
+Lance Jab
+
+A
+
+-5
+
++3
+
+
+
+
+
++10
+
+1
+
+Might increases based on user’s Speed.
+
+Leonie, Cyril, Shamir
+
+Axe
+
+Smash
+
+D
+
+-5
+
++3
+
++20
+
+
+
++20
+
+1
+
+
+
+All
+
+Helm Splitter
+
+C
+
+-5
+
++7
+
+
+
+
+
++5
+
+1
+
+Effective against Armored enemies
+
+All
+
+Monster Breaker
+
+C+
+
+-5
+
++9
+
+
+
+
+
+
+
+1
+
+Effective against Monsters
+
+Edelgard, Dedue, Cyril
+
+Focused Strike
+
+C+
+
+-3
+
+
+
++30
+
+
+
+
+
+1
+
+
+
+Ferdinand, Ashe, Seteth
+
+Wild Abandon
+
+C+
+
+-5
+
++10
+
+-30
+
+
+
++30
+
+1
+
+
+
+Caspar, Petra, Raphael
+
+Lightning Axe
+
+C+/A
+
+-3
+
++4
+
+
+
+
+
+
+
+1
+
+Deals magic-based damage. Might increases based on user’s Resistance.
+
+Edelgard, Annette, Sylvain
+
+Spike
+
+C+
+
+-5
+
++5
+
++15
+
+
+
++10
+
+1
+
+
+
+Sylvain, Hilda, Alois, Gilbert, Anna
+
+Diamond Axe
+
+C+/A
+
+-7
+
++14
+
+-20
+
+
+
+
+
+1
+
+
+
+Petra, Hilda, Seteth, Balthus
+
+Armored Strike
+
+A
+
+-3
+
++4
+
+
+
+
+
+
+
+1
+
+Might increases based on user’s Defense.
+
+Ferdinand, Dedue, Cyril, Anna, Balthus
+
+Exhaustive Strike
+
+A
+
+-1
+
++3
+
++10
+
+
+
+
+
+1
+
+Depletes all of the weapon’s remaining durability and adds 30% of that value to Might.
+
+Caspar, Alois
+
+Bow
+
+Curved Shot
+
+D
+
+-3
+
++1
+
++30
+
+
+
+
+
+2-3
+
+
+
+All
+
+Heavy Draw
+
+C+
+
+-5
+
++8
+
++10
+
+
+
+
+
+2
+
+
+
+Hubert, Felix, Shamir
+
+Deadeye
+
+C+
+
+-5
+
++6
+
+
+
+
+
+
+
+3-5
+
+
+
+Bernadetta, Ashe
+
+Waning Shot
+
+C+/A
+
+-3
+
++4
+
++10
+
+
+
+
+
+2-3
+
+After combat, inflicts Str -5 on foe for 1 turn.
+
+Petra, Ashe
+
+Monster Blast
+
+C+/A
+
+-4
+
++5
+
+
+
+
+
++10
+
+2
+
+Effective against Monsters
+
+Claude, Shamir
+
+Break Shot
+
+C+
+
+-3
+
++4
+
++5
+
+
+
+
+
+2-3
+
+After combat, inflicts Def -5 on foe for 1 turn.
+
+Ignatz, Leonie, Anna
+
+Schism Shot
+
+C+/A
+
+-3
+
++4
+
++15
+
+
+
+
+
+2-3
+
+After combat, inflicts Res -5 on foe for 1 turn.
+
+Hubert, Hanneman
+
+Point-Blank Volley
+
+C+/A
+
+-4
+
++3
+
++10
+
++10
+
+
+
+1
+
+2 consecutive hits.
+
+Leonie, Cyril
+
+Encloser
+
+A
+
+-3
+
++4
+
++15
+
+
+
+
+
+2
+
+Prevents foe from moving for 1 turn
+
+Claude, Bernadetta
+
+Ward Arrow
+
+A
+
+-3
+
++4
+
++15
+
+
+
+
+
+2
+
+Prevents foe from using magic for 1 turn
+
+Ignatz, Hanneman
+
+Brawl
+
+Fading Blow
+
+D
+
+-3
+
++6
+
++10
+
++30
+
+
+
+1
+
+After combat, user moves 1 space backwards.
+
+All
+
+Rushing Blow
+
+C
+
+-3
+
++7
+
++20
+
++10
+
+
+
+1
+
+After combat, user moves 1 space in front of the enemy.
+
+All
+
+Draining Blow
+
+C+/A
+
+-3
+
++5
+
++20
+
+
+
+
+
+1
+
+Restores HP equal to 50% of the damage inflicted to the enemy.
+
+Byleth, Raphael, Balthus
+
+Bombard
+
+C+/A
+
+-3
+
++3
+
+
+
+
+
++10
+
+1
+
+Triggers 2 consecutive hits.
+
+Caspar, Catherine
+
+One-Two Punch
+
+C+
+
+-4
+
++8
+
++20
+
+
+
+
+
+1
+
+Triggers a follow-up attack.
+
+Dedue, Alois
+
+Nimble Combo
+
+C+
+
+-3
+
++4
+
+
+
++20
+
+
+
+1
+
+2 consecutive hits.
+
+Felix, Catherine, Jeritza
+
+Monster Crusher
+
+C+
+
+-4
+
++13
+
++10
+
+
+
++10
+
+1
+
+Effective against Monsters
+
+Raphael
+
+Healing Focus*
+
+B
+
+
+
+
+
+
+
+
+
+
+
+
+
+Restores 50% of the user’s HP.
+
+All
+
+Mystic Blow
+
+A
+
+-3
+
++10
+
++10
+
+
+
+
+
+1
+
+Deals magic-based damage.
+
+Byleth, Felix
+
+Mighty Blow
+
+A
+
+-3
+
++10
+
+-5
+
+
+
++20
+
+1
+
+
+
+Caspar, Dedue, Alois, Balthus
+
+Weapon
+
+Crest
+
+Art
+
+Dur Cost
+
+Mt
+
+Hit
+
+Avo
+
+Crit
+
+Range
+
+Effect
+
+Sword of the Creator
+
+
+
+Ruptured Heaven*
+
+-3
+
++7
+
++10
+
+
+
++10
+
+1~2
+
+Might increases based on user’s MagicEffective against Dragon foes.
+
+Sublime Creator Sword
+
+
+
+Sublime Heaven*
+
+-3
+
++10
+
++10
+
+
+
++20
+
+1~2
+
+Might increases based on user’s MagicEffective against Dragon foes.
+
+Dark Creator Sword
+
+
+
+Heaven’s Fall
+
+-3
+
++10
+
++10
+
+
+
++10
+
+1~2
+
+Might increases based on user’s Magic
+
+Thunderbrand
+
+
+
+Foudroyant Strike
+
+-3, -4, -5
+
++6
+
++30
+
++30
+
+0
+
+1
+
+Effective against Armored and Dragon foes.
+
+Aymr
+
+
+
+Raging Storm
+
+-3, -4, -5
+
++14
+
++10
+
+
+
+
+
+1
+
+If attack lands, user can move againEffective against Dragon foes.
+
+Areadbhar
+
+
+
+Atrocity
+
+-3, -4, -5
+
++15
+
++20
+
+
+
+
+
+1
+
+Effective against all foes
+
+Failnaught
+
+
+
+Fallen Star
+
+-3, -4, -5
+
++10
+
++30
+
++10
+
+
+
+2~3
+
+Avoids all attacks during the next round of combat; effective against Dragon foes.
+
+Lance of Ruin
+
+
+
+Ruined Sky
+
+-3, -4, -5
+
++13
+
++10
+
++10
+
++10
+
+1
+
+Effective against Flying and Dragon foes.
+
+Lúin
+
+
+
+Burning Quake
+
+-3, -4, -5
+
++8
+
+
+
++20
+
++10
+
+1
+
+Might increases based on user’s Speed; Effective against Dragon foes.
+
+Crusher
+
+
+
+Dust
+
+-3, -4, -5
+
++20
+
+
+
+
+
+
+
+1
+
+Inflicts Def -5 on foe for 1 turn, Effective against Dragon foes.
+
+Freikugel
+
+
+
+Apocalyptic Flame
+
+-3, -4, -5
+
++15
+
++20
+
+
+
+
+
+1
+
+Inflicts Str -5 on foe for 1 turn; Effective against Dragon foes.
+
+Blutgang
+
+
+
+Beast Fang
+
+-3, -4, -5
+
++10
+
+
+
++30
+
+
+
+1
+
+Effective against Cavalry and Dragon foes.
+
+Vajra-Mushti
+
+
+
+Eviscerate
+
+-3, -4, -5
+
++10
+
++10
+
+-
+
++10
+
+1
+
+Calculates damage using the lower of foe's Def or Res.
+
+Class
+
+Weapon
+
+Art
+
+Dur Cost
+
+Mt
+
+Hit
+
+Avo
+
+Crit
+
+Crit Avo
+
+Range
+
+Effect
+
+Swordmaster
+
+Sword
+
+Astra
+
+-9
+
+
+
+-10
+
+
+
+
+
+
+
+1
+
+5 consecutive hits at 30% Mt.
+
+Assassin
+
+Sword
+
+Assassinate
+
+-5
+
+
+
++15
+
++15
+
+
+
++15
+
+1
+
+Can kill enemies instantly.
+
+Sniper
+
+Bow
+
+Hunter's Volley
+
+-5
+
++1
+
++15
+
+
+
++10
+
+
+
+2~3
+
+2 consecutive hits
+
+Grappler
+
+Brawl
+
+Fierce Iron Fist
+
+-5
+
++1
+
+
+
++10
+
+
+
+
+
+1
+
+3 consecutive hits
+
+Trickster
+
+None
+
+Foul Play
+
+
+
+
+
+
+
+
+
+
+
+
+
+1~5
+
+Unit swaps positions with an ally in range.
+
+War MonkWar Cleric
+
+Brawl
+
+Pneuma Gale
+
+-3
+
++7
+
++10
+
+
+
+
+
+
+
+1~2
+
+Magic attack.
+
+War Master
+
+Axe
+
+War Master’s Strike
+
+-5
+
++3
+
++30
+
+
+
+
+
+
+
+1
+
+Effective against all foes.
+
+Emperor
+
+Axe
+
+Flickering Flower
+
+-3
+
++10
+
++10
+
+
+
++10
+
+
+
+1
+
+After combat, prevents foe from moving for 1 turn
+
+Great Lord
+
+Lance
+
+Paraselene
+
+-3
+
++10
+
+
+
++10
+
++10
+
++10
+
+1
+
+After combat, user moves 1 space backwards.
+
+Barbarossa
+
+Bow
+
+Wind God
+
+-3
+
++5
+
++20
+
+
+
+
+
+
+
+2~5
+
+
+
+Character
+
+Talent
+
+Art
+
+Dur Cost
+
+Mt
+
+Hit
+
+Avo
+
+Crit
+
+Range
+
+Effect
+
+Lysithea
+
+Sword
+
+Soulblade
+
+-4
+
++2
+
++10
+
+
+
+
+
+1
+
+Deals magic-based damage, Might increases based on user's Resistance
+
+HubertMarianne
+
+Lance
+
+Frozen Lance
+
+-4
+
++3
+
++5
+
+
+
+
+
+1
+
+Deals magic-based damage. Might increases based on user’s Dexterity.
+
+Ashe
+
+Lance
+
+Shatter Slash
+
+-3
+
++4
+
++10
+
+
+
+
+
+1
+
+Foes hit by this attack suffer -5 Def for 1 turn
+
+Claude
+
+Axe
+
+Diamond Axe
+
+-7
+
++14
+
+-20
+
+
+
+
+
+1
+
+
+
+Hapi
+
+Axe
+
+Exhaustive Strike
+
+-1
+
++3
+
++10
+
+
+
+
+
+1
+
+Depletes all of the weapon’s remaining durability and adds 30% of that value to Might.
+
+Mercedes
+
+Bow
+
+Waning Shot
+
+-3
+
++4
+
++10
+
+
+
+
+
+2~3
+
+Foes hit by this attack suffer -5 Str for 1 turn.
+
+Yuri
+
+Bow
+
+Deadeye
+
+-5
+
++6
+
+
+
+
+
+
+
+3~5
+
+
+
+Constance
+
+Brawl
+
+Mystic Blow
+
+-3
+
++10
+
++10
+
+
+
+
+
+1
+
+Deals magic-based damage.
+
+Weapon
+
+Art
+
+Dur Cost
+
+Mt
+
+Hit
+
+Avo
+
+Crit
+
+Range
+
+Effect
+
+How to Learn
+
+None
+
+Swap
+
+
+
+
+
+
+
+
+
+
+
+1
+
+User swaps places with an ally.
+
+Master Myrmidon
+
+None
+
+Shove
+
+
+
+
+
+
+
+
+
+
+
+1
+
+User pushes ally forward 1 space.
+
+Master Fighter
+
+None
+
+Reposition
+
+
+
+
+
+
+
+
+
+
+
+1
+
+User moves ally to the space behind the user.
+
+Master Soldier
+
+None
+
+Draw Back
+
+
+
+
+
+
+
+
+
+
+
+1
+
+User moves 1 space backwards and ally is moved to where the user was previously.
+
+Master Monk
+
+Sword
+
+Subdue
+
+-3
+
+
+
++20
+
+
+
+
+
+1
+
+Leaves foe with at least 1 HP.
+
+Master Lord
+
+Any weapon
+
+Triangle Attack
+
+3
+
++8
+
++30
+
+
+
++40
+
+1
+
+Can only be triggered when 3 allied Flying units (including the user) are adjacent to the same enemy. Only user needs to know Triangle Attack.
+
+Master Pegasus Knight
+
+None
+
+Smite
+
+
+
+
+
+
+
+
+
+
+
+1
+
+User pushes ally forward 2 spaces.
+
+Reach B in Heavy Armor
+
+Sword
+
+Sword Dance
+
+2
+
++1
+
+
+
++20
+
+
+
+1
+
+Might increases based on user’s Charm.
+

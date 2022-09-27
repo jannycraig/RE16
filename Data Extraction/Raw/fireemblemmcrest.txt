@@ -1,0 +1,480 @@
+extracted by someone123#6741
+
+Crest
+
+Crest Bearer(s)
+
+Corresponding Dragon Sign
+
+Ability (Three Houses)
+
+Ability (Three Hopes)
+
+Heroes' Relic(s)
+
+Sacred Weapon(s)
+
+Major Arcana basis
+
+Crest of Blaiddydブレーダッドの紋章
+
+BlaiddydDimitriLambertLoogKlaus I
+
+Grim Dragon Sign
+
+The Faerghus royal family’s Crest, inherited from Blaiddyd of the 10 Elites. Occasionally doubles Atk and weapon uses for combat arts.*
+
+Lv 1Lv 2Lv 3
+20% chance to increase the damage dealt by combat arts in exchange for greatly increasing the weapon durability cost.
+20% chance to greatly increase the damage dealt by combat arts in exchange for increasing the weapon durability cost.
+20% chance to significantly increase the damage dealt by combat arts in exchange for slightly increasing the weapon durability cost.
+
+Areadbhar
+
+-
+
+Justice
+
+Crest of Charonカロンの紋章
+
+CharonCatherineLysithea
+
+Lightning Dragon Sign
+
+House Charon’s Crest, inherited from Charon of the 10 Elites. Occasionally raises Mt when using combat arts.*
+
+Lv 1Lv 2Lv 3
+50% / 25% chance to slightly increase the damage dealt by combat arts.
+50% / 25%  chance to increase the damage dealt by combat arts.
+50% / 25%  chance to greatly increase the damage dealt by combat arts.
+
+ThunderbrandSuttungr's Mystery
+
+-
+
+The Tower
+
+Crest of Daphnelダフネルの紋章
+
+DaphnelIngrid
+
+Flame Dragon Sign
+
+House Daphnel and House Galatea’s Crest, inherited from Daphnel of the 10 Elites. Sometimes raises Mt when using combat arts.*
+
+Lv 1Lv 2Lv 3
+25% chance to slightly increase the damage dealt by combat arts.
+25% chance to increase the damage dealt by combat arts.
+25% chance to greatly increase the damage dealt by combat arts.
+
+Lúin
+
+-
+
+The Chariot
+
+Crest of Dominicドミニクの紋章
+
+DominicAnnetteSimon
+
+Crusher Dragon Sign
+
+House Dominic’s Crest, inherited from Dominic of the 10 Elites. Occasionally conserves uses of attack magic.*
+
+Lv 1Lv 2Lv 3
+10% chance that weapon durability will not decrease when using offensive magic.
+15% chance that weapon durability will not decrease when using offensive magic.
+20% chance that weapon durability will not decrease when using offensive magic.
+
+Crusher
+
+-
+
+The Empress
+
+Crest of Fraldariusフラルダリウスの紋章
+
+FraldariusRodrigueFelix
+
+Shield Dragon Sign
+
+House Fraldarius’s Crest, inherited from Fraldarius of the 10 Elites. Sometimes raises Mt when using a weapon.*
+
+Lv 1Lv 2Lv 3
+20% / 10% chance to slightly increase the damage dealt by strong attacks.
+20% / 10% chance to increase the damage dealt by strong attacks.
+20% / 10% chance to greatly increase the damage dealt by strong attacks.
+
+Aegis Shield
+
+Sword of Moralta
+
+The Emperor
+
+Crest of Gautierゴーティエの紋章
+
+GautierMatthiasSylvain
+
+Fissure Dragon Sign
+
+House Gautier’s Crest, inherited from Gautier of the 10 Elites. Occasionally raises Mt when using combat arts.*
+
+Lv 1Lv 2Lv 3
+25% chance to slightly increase the damage dealt by combat arts.
+25% chance to increase the damage dealt by combat arts.
+25% chance to greatly increase the damage dealt by combat arts.
+
+Lance of Ruin
+
+-
+
+Death
+
+Crest of Gloucesterグロスタールの紋章
+
+GloucesterLysitheaErwinLorenz
+
+Craft Dragon Sign
+
+House Gloucester’s Crest, inherited from Gloucester of the 10 Elites. Occasionally raises Mt during magic attacks.*
+
+Lv 1Lv 2Lv 3
+40% / 20% chance to slightly increase the damage dealt by offensive magic.
+40% / 20% chance to increase the damage dealt by offensive magic.
+40% / 20% chance to greatly increase the damage dealt by offensive magic.
+
+Thyrsus
+
+Axe of Ukonvasara
+
+The Hermit
+
+Crest of Gonerilゴネリルの紋章
+
+GonerilHilda
+
+Kalpa Dragon Sign
+
+House Goneril’s Crest, inherited from Goneril of the 10 Elites. Sometimes allows combat arts to prevent enemy counterattacks.*
+
+Lv 1Lv 2Lv 3
+10% chance to land a critical hit with combat arts.
+15% chance to land a critical hit with combat arts.
+20% chance to land a critical hit with combat arts.
+
+Freikugel
+
+-
+
+Wheel of Fortune
+
+Crest of Lamineラミーヌの紋章
+
+LamineMercedesJeritza
+
+Aegis Dragon Sign
+
+A Crest inherited from Lamine of the 10 Elites. Occasionally conserves uses of recovery magic.*
+
+Lv 1Lv 2Lv 3
+10% chance that weapon durability will not decrease when using recovery magic.
+15% chance that weapon durability will not decrease when using recovery magic.
+20% chance that weapon durability will not decrease when using recovery magic.
+
+Rafail GemIchor Scroll
+
+Tathlum Bow
+
+Judgement
+
+Crest of Rieganリーガンの紋章
+
+RieganClaude
+
+Star Dragon Sign
+
+A Crest inherited from Riegan of the 10 Elites. Sometimes restores HP equal to 30% of damage dealt when using combat arts.*
+
+Lv 1Lv 2Lv 3
+15% chance to recover HP when landing a combat art.
+20% chance to recover HP when landing a combat art.
+25% chance to recover HP when landing a combat art.
+
+Failnaught
+
+Sword of Begalta
+
+The Moon
+
+Crest of the Beast獣の紋章
+
+Wandering BeastMarianne
+
+Storm Dragon Sign
+
+The Crest of a Hero whose identity was lost to history. Promises contempt for those who bear it. Sometimes raises Mt when using a weapon.*
+
+Lv 1Lv 2Lv 3
+10% chance to slightly increase the damage dealt by strong attacks.
+10% chance to increase the damage dealt by strong attacks.
+10% chance to greatly increase the damage dealt by strong attacks.
+
+Blutgang
+
+-
+
+The Devil
+
+Crest
+
+Crest Bearer(s)
+
+Corresponding Dragon Sign
+
+Ability (Three Houses)
+
+Ability (Three Hopes)
+
+Sacred Weapon(s)
+
+Major Arcana basis
+
+Crest of Cethleannセスリーンの紋章
+
+FlaynWaldemarLinhardt
+
+Light Dragon Sign
+
+Legend has it that Saint Cethleann bore this Crest. A symbol of kindness and mastery of light. Sometimes raises Mt when using recovery magic.*
+
+Lv 1Lv 2Lv 3
+50% / 25% chance to slightly increase the amount of HP healed by recovery magic.
+50% / 25% chance to increase the amount of HP healed by recovery magic.
+50% / 25% chance to greatly increase the amount of HP healed by recovery magic.
+
+Caduceus StaffAmalthea
+
+The Lovers
+
+Crest of Cicholキッホルの紋章
+
+SetethLeopoldLudwigFerdinand
+
+Earth Dragon Sign
+
+Legend has it that Saint Cichol bore this Crest. A symbol of strength and the land. Sometimes lets combat arts prevent enemy counterattacks.*
+
+Lv 1Lv 2Lv 3
+20% / 10% chance to land a critical hit with combat arts.
+30% / 15% chance to land a critical hit with combat arts.
+40% / 20% chance to land a critical hit with combat arts.
+
+Spear of AssalOchain ShieldJárngreipr
+
+Strength
+
+Crest of Indechインデッハの紋章
+
+The ImmovableGrégoireBernadettaHanneman
+
+Water Dragon Sign
+
+Legend has it that Saint Indech bore this Crest. A symbol of wisdom and water. Occasionally allows weapon attacks to strike twice.*
+
+Lv 1Lv 2Lv 3
+10% chance for a combat art to be ready again immediately after use.
+15% chance for a combat art to be ready again immediately after use.
+20% chance for a combat art to be ready again immediately after use.
+
+The Inexhaustible
+
+Temperance
+
+Crest of Macuilマクイルの紋章
+
+The Wind CallerMonica
+
+Wind Dragon Sign
+
+Legend has it that Saint Macuil bore this Crest. A symbol of magic and mastery of the wind. Occasionally raises Mt during magic attacks.*
+
+Lv 1Lv 2Lv 3
+20% chance to slightly increase the damage dealt by offensive magic.
+20% chance to increase the damage dealt by offensive magic.
+20% chance to greatly increase the damage dealt by offensive magic.
+
+Wind Caller's Genesis
+
+The Magician
+
+Crest
+
+Crest Bearer(s)
+
+Corresponding Dragon Sign
+
+Ability (Three Houses)
+
+Ability (Three Hopes)
+
+Heroes' Relic(s)
+
+Sacred Weapon(s)
+
+Major Arcana basis
+
+Crest of Aubinオーバンの紋章
+
+AubinYuri
+
+Ice Dragon Sign
+
+A Crest long lost to history. Occasionally prevents enemy counterattacks when using a weapon.*
+
+Lv 1Lv 2Lv 3
+20% chance to land a critical hit with strong attacks.
+25% chance to land a critical hit with strong attacks.
+30% chance to land a critical hit with strong attacks.
+
+Fetters of Dromi
+
+-
+
+The Hanged Man
+
+Crest of Chevalierシュヴァリエの紋章
+
+ChevalierBalthus
+
+Snow Dragon Sign
+
+A Crest long lost to history. Sometimes restores HP equal to 30% of damage dealt when using Combat Arts.*
+
+Lv 1Lv 2Lv 3
+30% chance to recover HP when landing a combat art.
+40% chance to recover HP when landing a combat art.
+50% chance to recover HP when landing a combat art.
+
+Vajra-Mushti
+
+-
+
+The Sun
+
+Crest of Noaノアの紋章
+
+NoaConstance
+
+Bloom Dragon Sign
+
+A Crest long lost to history. Occasionally does not consume a use during magic attacks.*
+
+Lv 1Lv 2Lv 3
+20% chance that weapon durability will not decrease when using offensive magic.
+30% chance that weapon durability will not decrease when using offensive magic.
+40% chance that weapon durability will not decrease when using offensive magic.
+
+-
+
+Scroll of Talos
+
+The Hierophant
+
+Crest of Timotheosティモテの紋章
+
+TimotheosHapi
+
+Dark Dragon Sign
+
+A Crest long lost to history. Occasionally does not consume a use for recovery magic.*
+
+Lv 1Lv 2Lv 3
+20% chance that weapon durability will not decrease when using recovery magic.
+30% chance that weapon durability will not decrease when using recovery magic.
+40% chance that weapon durability will not decrease when using recovery magic.
+
+Hrotti
+
+-
+
+The Star
+
+Crest
+
+Crest Bearer(s)
+
+Corresponding Dragon Sign
+
+Ability (Three Houses)
+
+Ability (Three Hopes)
+
+Heroes' Relic(s)
+
+Sacred Weapon(s)
+
+Major Arcana basis
+
+Crest of Flames炎の紋章
+
+NemesisBylethSothisEdelgard
+
+N/A
+
+The Crest of the goddess who governs the world. Occasionally restores HP equal to 30% of damage dealt. Rarely raises Mt and stops counterattacks.*
+
+Lv 1Lv 2Lv 3
+20% chance to recover HP with strong attacks.
+25% chance to recover HP with strong attacks.
+30% chance to recover HP with strong attacks.
+
+Sword of the Creator
+
+-
+
+The World
+
+Crest of Seirosセイロスの紋章
+
+RheaJeraltEdelgardAelfricWilhelm ILycaon I
+
+Sky Dragon Sign
+
+Legend has it that Saint Seiros bore this Crest and passed it down through House Hresvelg. Occasionally raises Mt when using combat arts.*
+
+Lv 1Lv 2Lv 3
+50% / 25% chance to slightly increase the damage dealt by combat arts.
+50% / 25%  chance to increase the damage dealt by combat arts.
+50% / 25%  chance to greatly increase the damage dealt by combat arts.
+
+Aymr
+
+Sword of SeirosSeiros ShieldLabraunda
+
+The High Priestess
+
+Crest
+
+Crest Bearer(s)
+
+Corresponding Dragon Sign
+
+Ability (Three Houses)
+
+Ability (Three Hopes)
+
+Major Arcana basis
+
+Crest of Ernestエルネストの紋章
+
+Anna
+
+Thorn Dragon Sign
+
+A Crest long lost to history. Occasionally stops enemy counterattacks when using a weapon.*
+
+A chance to land a critical hit with strong attacks.*
+
+The Fool
+
+
